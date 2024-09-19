@@ -32,7 +32,7 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/292452
 #EXTINF:-1 tvg-id="" tvg-name="AM IGBO HD" tvg-logo="https://lo1.in/dstv/afmgbo.png" group-title="Movies",AM IGBO HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/355006
 
-#EXTINF:-1 tvg-id="blitz.za" tvg-name="blitz.za" tvg-logo="https://lo1.in/dstv/supspo.png" group-title="Sports",200 Blitz HD
+#EXTINF:-1 tvg-id="blitz.za" tvg-name="Sports",200 Blitz HD" tvg-logo="https://lo1.in/dstv/supspo.png" group-title="Sports",200 Blitz HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/110613
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="PREMIER LEAGUE 203 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",PREMIER LEAGUE HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/159892
