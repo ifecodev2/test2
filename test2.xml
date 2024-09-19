@@ -1416,6 +1416,82 @@
 <title lang="en">Sky News Today With Wilfred Frost</title>
 <desc lang="en">The latest breaking news stories with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
 </programme>
+<channel id="supersportblitz.za">
+<display-name lang="en">200 Blitz HD</display-name>
+<icon src="https://lo1.in/dstv/supspo.png" />
+</channel>
+<programme start="20240918223000 +0000" stop="20240918230000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240918230000 +0000" stop="20240918233000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240918233000 +0000" stop="20240919000000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919000000 +0000" stop="20240919003000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919003000 +0000" stop="20240919010000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919010000 +0000" stop="20240919013000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919013000 +0000" stop="20240919020000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919020000 +0000" stop="20240919023000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919023000 +0000" stop="20240919030000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919030000 +0000" stop="20240919033000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919033000 +0000" stop="20240919040000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919040000 +0000" stop="20240919050000 +0000" channel="supersportblitz.za">
+<title lang="en">Sky Sports News</title>
+<desc lang="en">Live. Watch live coverage of the latest sports news from around the world.</desc>
+</programme>
+<programme start="20240919050000 +0000" stop="20240919060000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Live. Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919060000 +0000" stop="20240919070000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919070000 +0000" stop="20240919080000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919080000 +0000" stop="20240919090000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919090000 +0000" stop="20240919100000 +0000" channel="supersportblitz.za">
+<title lang="en">Sports Bulletin Around The Clock</title>
+<desc lang="en">Coverage of your favourite sports: football</desc>
+</programme>
+<programme start="20240919100000 +0000" stop="20240919110000 +0000" channel="supersportblitz.za">
+<title lang="en">Sky Sports News</title>
+<desc lang="en">Live. Watch live coverage of the latest sports news from around the world.</desc>
+</programme>
 <channel id="mbc2.ae">
 <display-name lang="en">MBC 2 HD</display-name>
 <icon src="https://lo1.in/FCB/Mbc2.png" />
