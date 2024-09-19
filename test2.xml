@@ -1,10 +1,35 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
  <channel id="SuperSport Blitz">
     <display-name lang="en">SuperSport Blitz</display-name>
     <icon src="https://supersport-cms-prod.azureedge.net/media/cpvbdwmi/blitz-1.png" />
     <url>http://www.supersport.com</url>
   </channel>
+   <channel id="etv.za">
+        <display-name>DSTV| ETV HD</display-name>
+        <icon src="https://lo1.in/som/etv.png" />
+    </channel>
+     <programme start="20240919000000 +0000" stop="20240919014000 +0000" channel="etv.za" >
+        <title>Battle Of The Damned</title>
+        <desc>Following a deadly viral outbreak, a private military soldier leads a handful of survivors and a ragtag band of robots against an army of the infected.</desc>
+    </programme>
+       <programme start="20240919014000 +0000" stop="20240919020500 +0000" channel="etv.za" >
+        <title>Paternity Court</title>
+        <desc>After a night of partying, an Illinois man woke up naked in his friend&apos;s bed. But is he the father of her ten-month-old son?</desc>
+    </programme>
+     <programme start="20240919020500 +0000" stop="20240919023500 +0000" channel="etv.za" >
+        <title>Forensic Files</title>
+        <desc>A deeply religious librarian, wife and mother named Gail Fulton is shot execution style in the quiet suburbs of Michigan.</desc>
+    </programme>
+     <programme start="20240919023500 +0000" stop="20240919030000 +0000" channel="etv.za" >
+        <title>Forensic Files</title>
+        <desc>A building manager finds the violated and lifeless body of a young woman in the bathtub of her first apartment. When questioned, an ex-con living downstairs lies to police.</desc>
+    </programme>
+     <programme start="20240919030000 +0000" stop="20240919033000 +0000" channel="etv.za" >
+        <title>e.tv News</title>
+        <desc>e.tv news brings you the latest news from across the country and around the world. You&apos;ll get the most up-to-date information on stories from politics to current events.</desc>
+    </programme>
 <programme start="20240919000000 +0000" stop="20240919003000 +0000" channel="SuperSport Blitz">
     <title lang="en">Sports Bulletin Around The Clock</title>
     <desc lang="en">Coverage of your favourite sports: football, golf, rugby, cricket, tennis, F1, boxing, plus the latest sports news, transfers and scores.(n)</desc>
