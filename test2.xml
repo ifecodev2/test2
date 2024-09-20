@@ -7082,4 +7082,105 @@
 <title lang="en">Sanyuka TV</title>
 <desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
 </programme>
+
+<channel id="bba">
+<display-name lang="en">198 BBNaija HD</display-name>
+<icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/397899_big_brother_naija_S9.JPG" />
+</channel>
+<programme start="20240919230000 +0000" stop="20240920000000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920000000 +0000" stop="20240920010000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920010000 +0000" stop="20240920020000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920020000 +0000" stop="20240920030000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920030000 +0000" stop="20240920040300 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920040300 +0000" stop="20240920050000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920050000 +0000" stop="20240920060000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920060000 +0000" stop="20240920070000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920070000 +0000" stop="20240920080000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920080000 +0000" stop="20240920090000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920090000 +0000" stop="20240920100000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920100000 +0000" stop="20240920110000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920110000 +0000" stop="20240920120000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920120000 +0000" stop="20240920130000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920130000 +0000" stop="20240920140000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920140000 +0000" stop="20240920150000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920150000 +0000" stop="20240920160000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920160000 +0000" stop="20240920170000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920170000 +0000" stop="20240920180000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920180000 +0000" stop="20240920190000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920190000 +0000" stop="20240920200000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920200000 +0000" stop="20240920210000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920210000 +0000" stop="20240920220000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
+<programme start="20240920220000 +0000" stop="20240920230000 +0000" channel="bba">
+<title lang="en">Big Brother Naija 9: Live Broadcast</title>
+<desc lang="en">Biggie&apos;s House</desc>
+</programme>
 </tv>
