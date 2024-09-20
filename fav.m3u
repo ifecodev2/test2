@@ -1,11 +1,11 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ifecodev2/test2/refs/heads/main/test3.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/ifecodev2/test2/refs/heads/main/test2.xml"
 
 
-#EXTINF:-1 tvg-id="mnet.za" tvg-name="M-NET HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",M-NET HD
+#EXTINF:-1 tvg-id="mnet.za" tvg-name="M-NET W HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",M-NET W HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14582
-#EXTINF:-1 tvg-id="mmovies1.za" tvg-name="MM 1 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 1 HD
+#EXTINF:-1 tvg-id="mmovies1.za" tvg-name="MM 1 W HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 1 W HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14583
-#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="MMMOVIES 2 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 2 HD
+#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="MM 2 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 2 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14580
 #EXTINF:-1 tvg-id="mmovies3.za" tvg-name="MM 3 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 3 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186854
@@ -27,7 +27,7 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/186823
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186819
 #EXTINF:-1 tvg-id="AfricaMagicYoruba.za" tvg-name="AM YORUBA HD" tvg-logo="https://lo1.in/dstv/afmg.png" group-title="Movies",AM YORUBA HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/292452
-#EXTINF:-1 tvg-id="AfricaMagicIgbo.za" tvg-name="AM IGBO HD" tvg-logo="https://lo1.in/dstv/afmgbo.png" group-title="Movies",AM IGBO HD
+#EXTINF:-1 tvg-id="africamagicigbo" tvg-name="AM IGBO HD" tvg-logo="https://lo1.in/dstv/afmgbo.png" group-title="Movies",AM IGBO HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/355006
 
 #EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="200 Blitz HD" tvg-logo="https://lo1.in/dstv/supspo.png" group-title="Sports",200 Blitz HD
