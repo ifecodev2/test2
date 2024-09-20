@@ -11,25 +11,23 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/14580
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186854
 #EXTINF:-1 tvg-id="mmovies4.za" tvg-name="MM 4 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 4 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186853
-#EXTINF:-1 tvg-id="" tvg-name="M-NET EAST HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",M-NET EAST HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/353443
 #EXTINF:-1 tvg-id="studiouniversal.za" tvg-name="STU UNI HD" tvg-logo="https://lo1.in/dstv/stunv.png" group-title="Movies",STU UNI HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186834
 #EXTINF:-1 tvg-id="universalchannel.za" tvg-name="UNIVERSAL TV HD" tvg-logo="https://lo1.in/dstv/unv.png" group-title="Movies",UNIVERSAL TV HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186848
 #EXTINF:-1 tvg-id="kix.za" tvg-name="KIX HD" tvg-logo="https://lo1.in/indo/kix.png" group-title="Movies",KIX HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186836
-#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2 HD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="Movies",MBC 2 HD
+#EXTINF:-1 tvg-id="mbc2" tvg-name="MBC 2 HD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="Movies",MBC 2 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/122061
-#EXTINF:-1 tvg-id="mbcaction.ae" tvg-name="MBC ACTION HD" tvg-logo="https://lo1.in/FCB/mbcaction.png" group-title="Movies",MBC ACTION HD
+#EXTINF:-1 tvg-id="mbcaction" tvg-name="MBC ACTION HD" tvg-logo="https://lo1.in/FCB/mbcaction.png" group-title="Movies",MBC ACTION HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/122066
-#EXTINF:-1 tvg-id="" tvg-name="AM EPIC HD" tvg-logo="https://lo1.in/af/zwafmgepic.png" group-title="Movies",AM EPIC HD
+#EXTINF:-1 tvg-id="AfricaMagicEpic.za" tvg-name="AM EPIC HD" tvg-logo="https://lo1.in/af/zwafmgepic.png" group-title="Movies",AM EPIC HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186823
 #EXTINF:-1 tvg-id="africamagicfamily.za" tvg-name="AM FAMILY HD" tvg-logo="https://lo1.in/dstv/afmgfm.png" group-title="Movies",AM FAMILY HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186819
-#EXTINF:-1 tvg-id="" tvg-name="AM YORUBA HD" tvg-logo="https://lo1.in/dstv/afmg.png" group-title="Movies",AM YORUBA HD
+#EXTINF:-1 tvg-id="AfricaMagicYoruba.za" tvg-name="AM YORUBA HD" tvg-logo="https://lo1.in/dstv/afmg.png" group-title="Movies",AM YORUBA HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/292452
-#EXTINF:-1 tvg-id="" tvg-name="AM IGBO HD" tvg-logo="https://lo1.in/dstv/afmgbo.png" group-title="Movies",AM IGBO HD
+#EXTINF:-1 tvg-id="AfricaMagicIgbo.za" tvg-name="AM IGBO HD" tvg-logo="https://lo1.in/dstv/afmgbo.png" group-title="Movies",AM IGBO HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/355006
 
 #EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="200 Blitz HD" tvg-logo="https://lo1.in/dstv/supspo.png" group-title="Sports",200 Blitz HD
@@ -56,7 +54,7 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/186855
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/7229
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SP 1 ENG HD" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="Sports",BEIN SP 1 ENG HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/81
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SP 2 ENG HD" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="Sports",BEIN SP 2 ENG HD
+#EXTINF:-1 tvg-id="beINSportsEN2.qa" tvg-name="BEIN SP 2 ENG HD" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="Sports",BEIN SP 2 ENG HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/82
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BEIN SP 1 HD" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="Sports",BEIN SP 1 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/46394
@@ -82,19 +80,19 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/400193264
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/67
 #EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="BEIN SP AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="Sports",BEIN SP AFC HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/400370400
-#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="BEIN SP 2 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="Sports",BEIN SP 2 AFC HD
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="BEIN SP 2 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="Sports",BEIN SP 2 AFC HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/400370402
-#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="BEIN SP 3 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="Sports",BEIN SP 3 AFC HD
+#EXTINF:-1 tvg-id="beINSportsAFC3.qa" tvg-name="BEIN SP 3 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="Sports",BEIN SP 3 AFC HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/400370403
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SP 4 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="Sports",BEIN SP 4 AFC HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/32907
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SP 5 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="Sports",BEIN SP 5 AFC HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/32904
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="BEIN SP MAX 1 HD" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="Sports",BEIN SP MAX 1 HD
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SP MAX 1 HD" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="Sports",BEIN SP MAX 1 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/68
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="BEIN SP MAX 2 HD" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="Sports",BEIN SP MAX 2 HD
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SP MAX 2 HD" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="Sports",BEIN SP MAX 2 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/69
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="BEIN SP MAX 3 HD" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="Sports",BEIN SP MAX 3 HD
+#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-name="BEIN SP MAX 3 HD" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="Sports",BEIN SP MAX 3 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/70
 
 #EXTINF:-1 tvg-id="cartoonnetwork.za" tvg-name="CARTOON NETWORK HD" tvg-logo="https://lo1.in/af/cn.png" group-title="Cartoon",CARTOON NETWORK HD
@@ -108,27 +106,27 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/14567
 
 #EXTINF:-1 tvg-id="channelo.za" tvg-name="Channel O HD" tvg-logo="https://lo1.in/dstv/chlo.png" group-title="Music",Channel O HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/110603
-#EXTINF:-1 tvg-id="" tvg-name="TRACE NAIJA HD" tvg-logo="https://lo1.in/af/tracnaija.png" group-title="Music",TRACE NAIJA HD
+#EXTINF:-1 tvg-id="TraceNaija.fr" tvg-name="TRACE NAIJA HD" tvg-logo="https://lo1.in/af/tracnaija.png" group-title="Music",TRACE NAIJA HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14548
 #EXTINF:-1 tvg-id="traceafrica.za" tvg-name="TRACE AFRICA HD" tvg-logo="https://lo1.in/af/tracaf.png" group-title="Music",TRACE AFRICA HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186826
 #EXTINF:-1 tvg-id="traceurban.za" tvg-name="TRACE URBAN HD" tvg-logo="https://lo1.in/fr/trcu.png" group-title="Music",TRACE URBAN HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186827
-#EXTINF:-1 tvg-id="" tvg-name="TRACE GOSPEL HD" tvg-logo="https://lo1.in/af/tracegosp.png" group-title="Music",TRACE GOSPEL HD
+#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="TRACE GOSPEL HD" tvg-logo="https://lo1.in/af/tracegosp.png" group-title="Music",TRACE GOSPEL HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186825
-#EXTINF:-1 tvg-id="" tvg-name="AFRO MUSIC HD" tvg-logo="https://lo1.in/af/afmus.png" group-title="Music",AFRO MUSIC HD
+#EXTINF:-1 tvg-id="AfroMusicPop.pt" tvg-name="AFRO MUSIC HD" tvg-logo="https://lo1.in/af/afmus.png" group-title="Music",AFRO MUSIC HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/400225181
 #EXTINF:-1 tvg-id="" tvg-name="URBAN TV HD" tvg-logo="https://lo1.in/af/urban.png" group-title="Music",URBAN TV HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/353639
-#EXTINF:-1 tvg-id="" tvg-name="RAVE TV HD" tvg-logo="https://lo1.in/af/ravetv.png" group-title="Music",RAVE TV HD
+#EXTINF:-1 tvg-id="RaveTV.ng" tvg-name="RAVE TV HD" tvg-logo="https://lo1.in/af/ravetv.png" group-title="Music",RAVE TV HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14523
-#EXTINF:-1 tvg-id="" tvg-name="KISS TV HD" tvg-logo="https://lo1.in/af/kisstv.png" group-title="Music",KISS TV HD
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="KISS TV HD" tvg-logo="https://lo1.in/af/kisstv.png" group-title="Music",KISS TV HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14533
-#EXTINF:-1 tvg-id="mtvbase.za" tvg-name="MTV BASE HD" tvg-logo="https://lo1.in/fr/mtvbase.png" group-title="Music",MTV BASE HD
+#EXTINF:-1 tvg-id="MTVBaseAfrica.za" tvg-name="MTV BASE HD" tvg-logo="https://lo1.in/fr/mtvbase.png" group-title="Music",MTV BASE HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186843
-#EXTINF:-1 tvg-id="mtv.za" tvg-name="MTV HD" tvg-logo="https://lo1.in/dstv/mtv.png" group-title="Music",MTV HD
+#EXTINF:-1 tvg-id="MTVAfrica.za" tvg-name="MTV HD" tvg-logo="https://lo1.in/dstv/mtv.png" group-title="Music",MTV HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186844
-#EXTINF:-1 tvg-id="" tvg-name="SOUND CITY HD" tvg-logo="https://lo1.in/dstv/sndcty.png" group-title="Music",SOUND CITY HD
+#EXTINF:-1 tvg-id="SoundcityTV.ng" tvg-name="SOUND CITY HD" tvg-logo="https://lo1.in/dstv/sndcty.png" group-title="Music",SOUND CITY HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186791
 
 #EXTINF:-1 tvg-id="etv.za" tvg-name="ETV HD" tvg-logo="https://lo1.in/dstv/etv.png" group-title="ENTERTAINMENT",ETV HD
@@ -137,13 +135,13 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/186842
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/400218849
 #EXTINF:-1 tvg-id="bbcbrit.za" tvg-name="BBC BRIT HD" tvg-logo="https://lo1.in/dstv/bbcb.png" group-title="ENTERTAINMENT",BBC BRIT HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186868
-#EXTINF:-1 tvg-id="" tvg-name="BET AFRICA HD" tvg-logo="https://lo1.in/af/bet.png" group-title="ENTERTAINMENT",BET AFRICA HD
+#EXTINF:-1 tvg-id="BETAfrica.us" tvg-name="BET AFRICA HD" tvg-logo="https://lo1.in/af/bet.png" group-title="ENTERTAINMENT",BET AFRICA HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/189777
 #EXTINF:-1 tvg-id="bet.za" tvg-name="BET FHD" tvg-logo="https://lo1.in/af/bet.png" group-title="ENTERTAINMENT",BET FHD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186866
-#EXTINF:-1 tvg-id="natgeo.za" tvg-name="Nat Geo HD" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="ENTERTAINMENT",Nat Geo HD
+#EXTINF:-1 tvg-id="NationalGeographicSouthAfrica.za" tvg-name="Nat Geo HD" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="ENTERTAINMENT",Nat Geo HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/7261
-#EXTINF:-1 tvg-id="natgeowild.za" tvg-name="Nat Geo WILD HD" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="ENTERTAINMENT",Nat Geo WILD HD
+#EXTINF:-1 tvg-id="NationalGeographicWildSouthAfrica.za" tvg-name="Nat Geo WILD HD" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="ENTERTAINMENT",Nat Geo WILD HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/7260
 #EXTINF:-1 tvg-id="foodnetwork.za" tvg-name="FOOD NETWORK HD" tvg-logo="https://lo1.in/af/foodnetwo.png" group-title="ENTERTAINMENT",FOOD NETWORK HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186841
@@ -153,7 +151,7 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/186863
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/355303
 #EXTINF:-1 tvg-id="eentertainment.za" tvg-name="E! HD" tvg-logo="https://lo1.in/dstv/e1.png" group-title="ENTERTAINMENT",E! HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186858
-#EXTINF:-1 tvg-id="" tvg-name="TNT AFRICA HD" tvg-logo="https://lo1.in/af/tntaf.png" group-title="ENTERTAINMENT",TNT AFRICA HD
+#EXTINF:-1 tvg-id="TNTAfrica.uk" tvg-name="TNT AFRICA HD" tvg-logo="https://lo1.in/af/tntaf.png" group-title="ENTERTAINMENT",TNT AFRICA HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186849
 #EXTINF:-1 tvg-id="discoverychannel.za" tvg-name="DISC CHANNEL HD" tvg-logo="https://lo1.in/fr/dischn1.png" group-title="ENTERTAINMENT",DISC CHANNEL HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186861
@@ -172,11 +170,11 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/39772
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/355041
 #EXTINF:-1 tvg-id="cnninternational.za" tvg-name="CNN INTERNATIONAL HD" tvg-logo="https://lo1.in/af/cnninter.png" group-title="News",CNN INTERNATIONAL HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/355042
-#EXTINF:-1 tvg-id="" tvg-name="CHANNELS 24 HD" tvg-logo="https://lo1.in/af/cha24.png" group-title="News",CHANNELS 24 HD
+#EXTINF:-1 tvg-id="ChannelsAfrica.za" tvg-name="CHANNELS 24 HD" tvg-logo="https://lo1.in/af/cha24.png" group-title="News",CHANNELS 24 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14466
-#EXTINF:-1 tvg-id="" tvg-name="ARISE NEWS" tvg-logo="https://lo1.in/af/arsns.png" group-title="News",ARISE NEWS
+#EXTINF:-1 tvg-id="AriseNews.uk" tvg-name="ARISE NEWS" tvg-logo="https://lo1.in/af/arsns.png" group-title="News",ARISE NEWS
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/260219
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG HD" tvg-logo="https://lo1.in/af/boomrang.png" group-title="News",BLOOMBERG HD
+#EXTINF:-1 tvg-id="BloombergTVAfrica.us" tvg-name="BLOOMBERG HD" tvg-logo="https://lo1.in/af/boomrang.png" group-title="News",BLOOMBERG HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/355345
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://lo1.in/fr/bbcwnews1.png" group-title="News",BBC World News
+#EXTINF:-1 tvg-id="BBCNewsAfrica.uk" tvg-name="BBC World News" tvg-logo="https://lo1.in/fr/bbcwnews1.png" group-title="News",BBC World News
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/35512
