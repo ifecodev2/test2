@@ -46,7 +46,7 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/159884
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186870
 #EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="235 MAXIMO 1 HD" tvg-logo="https://lo1.in/af/sprspmaximo.png" group-title="Sports",235 MAXIMO 1 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/159896
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="FOOTBALL PLUS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",FOOTBALL PLUS HD
+#EXTINF:-1 tvg-id="supersportfootballplus.za" tvg-name="FOOTBALL PLUS HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",FOOTBALL PLUS HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/400415390
 #EXTINF:-1 tvg-id="espn.za" tvg-name="ESPN HD" tvg-logo="https://lo1.in/dstv/espn.png" group-title="Sports",ESPN HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186855
@@ -129,10 +129,10 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/186844
 #EXTINF:-1 tvg-id="soundcitytv.ng" tvg-name="SOUND CITY HD" tvg-logo="https://lo1.in/dstv/sndcty.png" group-title="Music",SOUND CITY HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186791
 
-#EXTINF:-1 tvg-id="etv.za" tvg-name="ETV HD" tvg-logo="https://lo1.in/dstv/etv.png" group-title="ENTERTAINMENT",ETV HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/186842
 #EXTINF:-1 tvg-id="bba" tvg-name="198 BBNaija HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/397899_big_brother_naija_S9.JPG" tvg="Reality" group-title="ENTERTAINMENT",198 BBNaija HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/400218849
+#EXTINF:-1 tvg-id="etv.za" tvg-name="ETV HD" tvg-logo="https://lo1.in/dstv/etv.png" group-title="ENTERTAINMENT",ETV HD
+http://jppvaha.mnami.xyz:80/8456570294/1910151594/186842
 #EXTINF:-1 tvg-id="bbcbrit.za" tvg-name="BBC BRIT HD" tvg-logo="https://lo1.in/dstv/bbcb.png" group-title="ENTERTAINMENT",BBC BRIT HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186868
 #EXTINF:-1 tvg-id="betafrica.us" tvg-name="BET AFRICA HD" tvg-logo="https://lo1.in/af/bet.png" group-title="ENTERTAINMENT",BET AFRICA HD
