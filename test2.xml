@@ -4741,50 +4741,6 @@
 <title lang="en">Bleach: Burichi (Ep82)</title>
 <desc lang="en">Action</desc>
 </programme>
-<channel id="urban">
-<display-name lang="en">URBAN TV HD</display-name>
-<icon src="https://lo1.in/af/urban.png" />
-</channel>
-<programme start="20240920160000 +0000" stop="20240920220000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
-<programme start="20240920220000 +0000" stop="20240921040000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
-<programme start="20240921040000 +0000" stop="20240921100000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
-<programme start="20240921100000 +0000" stop="20240921160000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
-<programme start="20240921160000 +0000" stop="20240921220000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
-<programme start="20240921160000 +0000" stop="20240921220000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
-<programme start="20240921220000 +0000" stop="20240922040000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
-<programme start="20240922040000 +0000" stop="20240922100000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
-<programme start="20240922100000 +0000" stop="20240922160000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
-<programme start="20240922160000 +0000" stop="20240922220000 +0000" channel="urban">
-<title lang="en">Sanyuka TV</title>
-<desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
-</programme>
 
 <channel id="africamagicepic">
 <display-name lang="en">AM EPIC HD</display-name>
@@ -10503,5 +10459,310 @@
 <programme start="20240922224500 +0000" stop="20240922234500 +0000" channel="mmovies1.za">
 <title lang="en">Nikki Glaser: Good Clean Filth</title>
 <desc lang="en">In a manner that is brutally honest yet conversational</desc>
+</programme>
+
+<channel id="channelsafrica.za">
+<display-name lang="en">CHANNELS 24 HD</display-name>
+<icon src="https://lo1.in/af/cha24.png" />
+</channel>
+<programme start="20240920230000 +0000" stop="20240920233000 +0000" channel="channelsafrica.za">
+<title lang="en">Network Africa</title>
+<desc lang="en">A program that gives insight into the challenges of African democratic institutions with a view of finding African solutions.</desc>
+</programme>
+<programme start="20240920233000 +0000" stop="20240921000000 +0000" channel="channelsafrica.za">
+<title lang="en">Foreign Dispatches</title>
+<desc lang="en">A bi-weekly magazine programme that explores people</desc>
+</programme>
+<programme start="20240921000000 +0000" stop="20240921020000 +0000" channel="channelsafrica.za">
+<title lang="en">The Morning Brief</title>
+<desc lang="en">We bring you trending issues in the nations politics</desc>
+</programme>
+<programme start="20240921020000 +0000" stop="20240921030000 +0000" channel="channelsafrica.za">
+<title lang="en">Politics Today</title>
+<desc lang="en">A weekly live political show that &apos;x-rays&apos; recent significant developments and activities in the world of politics in and around Nigeria. Political perspectives of national issues are captured and analysed in each edition.</desc>
+</programme>
+<programme start="20240921030000 +0000" stop="20240921033000 +0000" channel="channelsafrica.za">
+<title lang="en">News Room Series - South East</title>
+<desc lang="en">We report and discuss local news stories as they happen in the the south east geopolitical region of Nigeria.</desc>
+</programme>
+<programme start="20240921033000 +0000" stop="20240921040000 +0000" channel="channelsafrica.za">
+<title lang="en">Channels Beam</title>
+<desc lang="en">An online based programme that leverages the new media platforms to reach out to social media enthusiasts around the world.</desc>
+</programme>
+<programme start="20240921040000 +0000" stop="20240921043000 +0000" channel="channelsafrica.za">
+<title lang="en">Sports Tonight</title>
+<desc lang="en">We focus on issues in Nigeria and around the world and discuss various sports and sporting events.</desc>
+</programme>
+<programme start="20240921043000 +0000" stop="20240921050000 +0000" channel="channelsafrica.za">
+<title lang="en">Sports Tonight</title>
+<desc lang="en">We focus on issues in Nigeria and around the world and discuss various sports and sporting events.</desc>
+</programme>
+<programme start="20240921050000 +0000" stop="20240921053000 +0000" channel="channelsafrica.za">
+<title lang="en">Entertainment News</title>
+<desc lang="en">A collection of entertainment events</desc>
+</programme>
+<programme start="20240921053000 +0000" stop="20240921060000 +0000" channel="channelsafrica.za">
+<title lang="en">Turning Point</title>
+<desc lang="en">An inspirational</desc>
+</programme>
+<programme start="20240921060000 +0000" stop="20240921063000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240921063000 +0000" stop="20240921070000 +0000" channel="channelsafrica.za">
+<title lang="en">Salvation Hour</title>
+<desc lang="en">A religious programme.</desc>
+</programme>
+<programme start="20240921070000 +0000" stop="20240921073000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240921073000 +0000" stop="20240921080000 +0000" channel="channelsafrica.za">
+<title lang="en">One Cubed</title>
+<desc lang="en">An international gospel music show.</desc>
+</programme>
+<programme start="20240921080000 +0000" stop="20240921110000 +0000" channel="channelsafrica.za">
+<title lang="en">Sunrise Saturday</title>
+<desc lang="en">We examine topical issues</desc>
+</programme>
+<programme start="20240921110000 +0000" stop="20240921113000 +0000" channel="channelsafrica.za">
+<title lang="en">Metrofile</title>
+<desc lang="en">We showcase the glitz</desc>
+</programme>
+<programme start="20240921113000 +0000" stop="20240921120000 +0000" channel="channelsafrica.za">
+<title lang="en">Health Matters</title>
+<desc lang="en">Live phone-in health programme that deals with health conditions with interviews form health and medical practitioners.</desc>
+</programme>
+<programme start="20240921120000 +0000" stop="20240921130000 +0000" channel="channelsafrica.za">
+<title lang="en">With Chude</title>
+<desc lang="en">We interview and put celebrities on the spotlight. One-on-one with Chude engages them to talk about their intimate activities.</desc>
+</programme>
+<programme start="20240921130000 +0000" stop="20240921133000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240921133000 +0000" stop="20240921140000 +0000" channel="channelsafrica.za">
+<title lang="en">NITDA Impact</title>
+<desc lang="en">Showcasing the impact</desc>
+</programme>
+<programme start="20240921140000 +0000" stop="20240921143000 +0000" channel="channelsafrica.za">
+<title lang="en">News Room Series - North East</title>
+<desc lang="en">We report and discuss local news stories as they happen in the the north east geopolitical region of Nigeria.</desc>
+</programme>
+<programme start="20240921143000 +0000" stop="20240921150000 +0000" channel="channelsafrica.za">
+<title lang="en">Law Weekly</title>
+<desc lang="en">We examine the judicial activities across Nigeria with emphasis on how the law affects the social economy</desc>
+</programme>
+<programme start="20240921150000 +0000" stop="20240921153000 +0000" channel="channelsafrica.za">
+<title lang="en">Newsround</title>
+<desc lang="en">A live news bulletin that reviews Nigeria&apos;s top stories of the week.</desc>
+</programme>
+<programme start="20240921153000 +0000" stop="20240921160000 +0000" channel="channelsafrica.za">
+<title lang="en">Channels Business Global</title>
+<desc lang="en">We go beyond the headlines to provide an in-depth perspective on African Business stories that have gained international interest. Featuring a panel of esteemed guests from Channels Television&apos;s London studios.</desc>
+</programme>
+<programme start="20240921160000 +0000" stop="20240921163000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240921163000 +0000" stop="20240921170000 +0000" channel="channelsafrica.za">
+<title lang="en">Tech Trend</title>
+<desc lang="en">We analyse technology</desc>
+</programme>
+<programme start="20240921170000 +0000" stop="20240921173000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240921173000 +0000" stop="20240921180000 +0000" channel="channelsafrica.za">
+<title lang="en">Arthouse</title>
+<desc lang="en">We celebrate the creativity</desc>
+</programme>
+<programme start="20240921180000 +0000" stop="20240921183000 +0000" channel="channelsafrica.za">
+<title lang="en">Capital Market</title>
+<desc lang="en">Focusing on the activities of the Nigerian stock market</desc>
+</programme>
+<programme start="20240921183000 +0000" stop="20240921190000 +0000" channel="channelsafrica.za">
+<title lang="en">Diaspora Network</title>
+<desc lang="en">We showcase Nigerians residing around the world doing amazing things while demonstrating their contributions to national development. It also features everyday diasporans.</desc>
+</programme>
+<programme start="20240921190000 +0000" stop="20240921193000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240921193000 +0000" stop="20240921200000 +0000" channel="channelsafrica.za">
+<title lang="en">Akwa Ibom</title>
+<desc lang="en">Showcasing the activities of the State Government</desc>
+</programme>
+<programme start="20240921200000 +0000" stop="20240921203000 +0000" channel="channelsafrica.za">
+<title lang="en">Entertainment News</title>
+<desc lang="en">A collection of entertainment events</desc>
+</programme>
+<programme start="20240921203000 +0000" stop="20240921210000 +0000" channel="channelsafrica.za">
+<title lang="en">The Gavel</title>
+<desc lang="en">We chronicle the highlights of all activities and topical issues happenings in the polity as it relates to both the Nigerian Houses of Assembly (Parliament) and members of the House alike.</desc>
+</programme>
+<programme start="20240921210000 +0000" stop="20240921220000 +0000" channel="channelsafrica.za">
+<title lang="en">News @ Ten</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this one hour package. Look out for the latest in business</desc>
+</programme>
+<programme start="20240921220000 +0000" stop="20240921223000 +0000" channel="channelsafrica.za">
+<title lang="en">Dateline Abuja</title>
+<desc lang="en">Dateline Abuja portrays the life and style of the inhabitants of the modern city of Abuja</desc>
+</programme>
+<programme start="20240921223000 +0000" stop="20240921230000 +0000" channel="channelsafrica.za">
+<title lang="en">Nollywood Uncut</title>
+<desc lang="en">A collection of entertainment events</desc>
+</programme>
+<programme start="20240921230000 +0000" stop="20240921233000 +0000" channel="channelsafrica.za">
+<title lang="en">Newsround</title>
+<desc lang="en">A live news bulletin that reviews Nigeria&apos;s top stories of the week.</desc>
+</programme>
+<programme start="20240921233000 +0000" stop="20240922000000 +0000" channel="channelsafrica.za">
+<title lang="en">Foreign Dispatches</title>
+<desc lang="en">A bi-weekly magazine programme that explores people</desc>
+</programme>
+<programme start="20240922000000 +0000" stop="20240922030000 +0000" channel="channelsafrica.za">
+<title lang="en">Sunrise Saturday</title>
+<desc lang="en">We examine topical issues</desc>
+</programme>
+<programme start="20240922030000 +0000" stop="20240922033000 +0000" channel="channelsafrica.za">
+<title lang="en">Channels Business Global</title>
+<desc lang="en">We go beyond the headlines to provide an in-depth perspective on African Business stories that have gained international interest. Featuring a panel of esteemed guests from Channels Television&apos;s London studios.</desc>
+</programme>
+<programme start="20240922033000 +0000" stop="20240922040000 +0000" channel="channelsafrica.za">
+<title lang="en">Nollywood Uncut</title>
+<desc lang="en">A collection of entertainment events</desc>
+</programme>
+<programme start="20240922040000 +0000" stop="20240922043000 +0000" channel="channelsafrica.za">
+<title lang="en">Entertainment News</title>
+<desc lang="en">A collection of entertainment events</desc>
+</programme>
+<programme start="20240922043000 +0000" stop="20240922050000 +0000" channel="channelsafrica.za">
+<title lang="en">One Cubed</title>
+<desc lang="en">An international gospel music show.</desc>
+</programme>
+<programme start="20240922050000 +0000" stop="20240922053000 +0000" channel="channelsafrica.za">
+<title lang="en">Living The Life</title>
+<desc lang="en">A religious programme.</desc>
+</programme>
+<programme start="20240922053000 +0000" stop="20240922060000 +0000" channel="channelsafrica.za">
+<title lang="en">Channel&apos;s Book Club</title>
+<desc lang="en">We have a look at books</desc>
+</programme>
+<programme start="20240922060000 +0000" stop="20240922063000 +0000" channel="channelsafrica.za">
+<title lang="en">Earth File</title>
+<desc lang="en">Focusing on development and the environment</desc>
+</programme>
+<programme start="20240922063000 +0000" stop="20240922070000 +0000" channel="channelsafrica.za">
+<title lang="en">Turning Point</title>
+<desc lang="en">An inspirational</desc>
+</programme>
+<programme start="20240922070000 +0000" stop="20240922073000 +0000" channel="channelsafrica.za">
+<title lang="en">Inside Sources</title>
+<desc lang="en">Laolu Akande brings you insider hints</desc>
+</programme>
+<programme start="20240922073000 +0000" stop="20240922080000 +0000" channel="channelsafrica.za">
+<title lang="en">Inside Sources</title>
+<desc lang="en">Laolu Akande brings you insider hints</desc>
+</programme>
+<programme start="20240922080000 +0000" stop="20240922083000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240922083000 +0000" stop="20240922090000 +0000" channel="channelsafrica.za">
+<title lang="en">Kaleidoscope</title>
+<desc lang="en">Kaleidoscope is a programme which features events such as school reunions</desc>
+</programme>
+<programme start="20240922090000 +0000" stop="20240922093000 +0000" channel="channelsafrica.za">
+<title lang="en">Covenant Nation Church</title>
+<desc lang="en">A religious programme.</desc>
+</programme>
+<programme start="20240922093000 +0000" stop="20240922100000 +0000" channel="channelsafrica.za">
+<title lang="en">Covenant Nation Church</title>
+<desc lang="en">A religious programme.</desc>
+</programme>
+<programme start="20240922100000 +0000" stop="20240922103000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240922103000 +0000" stop="20240922110000 +0000" channel="channelsafrica.za">
+<title lang="en">Health Matters</title>
+<desc lang="en">Live phone-in health programme that deals with health conditions with interviews form health and medical practitioners.</desc>
+</programme>
+<programme start="20240922110000 +0000" stop="20240922111500 +0000" channel="channelsafrica.za">
+<title lang="en">Amazing Africans</title>
+<desc lang="en">We celebrate iconic Africans who have made giant strides in their lifetime and influenced their nations.</desc>
+</programme>
+<programme start="20240922111500 +0000" stop="20240922123000 +0000" channel="channelsafrica.za">
+<title lang="en">Channel&apos;s Sports Sunday</title>
+<desc lang="en">Highlighting major events in sports including news and analysis</desc>
+</programme>
+<programme start="20240922123000 +0000" stop="20240922130000 +0000" channel="channelsafrica.za">
+<title lang="en">Hard Copy</title>
+<desc lang="en">We interview guests and seek to spark genuine and tough conversations with them on the state of the Nigerian nation.</desc>
+</programme>
+<programme start="20240922130000 +0000" stop="20240922133000 +0000" channel="channelsafrica.za">
+<title lang="en">Sports Ville</title>
+<desc lang="en">Analysis of the issues and the events in Nigeria and around the world.</desc>
+</programme>
+<programme start="20240922133000 +0000" stop="20240922140000 +0000" channel="channelsafrica.za">
+<title lang="en">Transform Her</title>
+<desc lang="en">We provide practical insists and tangible resources that empowers and equipped women for leadership and entrepreneurship.</desc>
+</programme>
+<programme start="20240922140000 +0000" stop="20240922150000 +0000" channel="channelsafrica.za">
+<title lang="en">Rubbing Minds</title>
+<desc lang="en">Prophet Ige Kelly Osaigbovo targets hidden issues presented to humanity that may affect one&apos;s purpose in the body of Christ.</desc>
+</programme>
+<programme start="20240922150000 +0000" stop="20240922153000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240922153000 +0000" stop="20240922160000 +0000" channel="channelsafrica.za">
+<title lang="en">Insight For Living</title>
+<desc lang="en">Receive words of wisdom and inspiration from Pastor Poju Oyemade.</desc>
+</programme>
+<programme start="20240922160000 +0000" stop="20240922170000 +0000" channel="channelsafrica.za">
+<title lang="en">Moment Of The Truth</title>
+<desc lang="en">A religious programme.</desc>
+</programme>
+<programme start="20240922170000 +0000" stop="20240922173000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240922173000 +0000" stop="20240922180000 +0000" channel="channelsafrica.za">
+<title lang="en">Law Weekly</title>
+<desc lang="en">We examine the judicial activities across Nigeria with emphasis on how the law affects the social economy</desc>
+</programme>
+<programme start="20240922180000 +0000" stop="20240922183000 +0000" channel="channelsafrica.za">
+<title lang="en">News Track</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this 30 minutes bulletin. Look out for the latest in business</desc>
+</programme>
+<programme start="20240922183000 +0000" stop="20240922190000 +0000" channel="channelsafrica.za">
+<title lang="en">OTNA</title>
+<desc lang="en">OTNA is an engaging interview segment sponsored programme which takes a look at the processes of privatisation and reforms in Nigeria.</desc>
+</programme>
+<programme start="20240922190000 +0000" stop="20240922200000 +0000" channel="channelsafrica.za">
+<title lang="en">Sunday Politics</title>
+<desc lang="en">We &apos;x-ray&apos; recent significant developments and activities in the world of politics in and around Nigeria. Political perspectives of national issues are captured and analysed in each edition.</desc>
+</programme>
+<programme start="20240922200000 +0000" stop="20240922203000 +0000" channel="channelsafrica.za">
+<title lang="en">Eco @ Africa</title>
+<desc lang="en">We highlight the efforts to protect our environment and innovations in green technology.</desc>
+</programme>
+<programme start="20240922203000 +0000" stop="20240922210000 +0000" channel="channelsafrica.za">
+<title lang="en">Solution Footprints: Anambra State Doc</title>
+<desc lang="en">A documentary showcasing the works and developments of the state government in Anambra.</desc>
+</programme>
+<programme start="20240922210000 +0000" stop="20240922220000 +0000" channel="channelsafrica.za">
+<title lang="en">News @ Ten</title>
+<desc lang="en">Breaking and developing news as well as human angle stories are captured in this one hour package. Look out for the latest in business</desc>
+</programme>
+<programme start="20240922220000 +0000" stop="20240922223000 +0000" channel="channelsafrica.za">
+<title lang="en">Diaspora Network</title>
+<desc lang="en">We showcase Nigerians residing around the world doing amazing things while demonstrating their contributions to national development. It also features everyday diasporans.</desc>
+</programme>
+<programme start="20240922223000 +0000" stop="20240922230000 +0000" channel="channelsafrica.za">
+<title lang="en">Arthouse</title>
+<desc lang="en">We celebrate the creativity</desc>
 </programme>
 </tv>
