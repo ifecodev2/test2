@@ -24,6 +24,8 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/186834
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186848
 #EXTINF:-1 tvg-id="kix.za" tvg-name="KIX HD" tvg-logo="https://lo1.in/indo/kix.png" group-title="Movies",KIX HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186836
+#EXTINF:-1 tvg-id="kix.za" tvg-name="KIX HD Bk" tvg-logo="https://lo1.in/indo/kix.png" group-title="Movies",KIX HD BK
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="mbc2" tvg-name="MBC 2 HD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="Movies",MBC 2 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/122061
 #EXTINF:-1 tvg-id="mbcaction" tvg-name="MBC ACTION HD" tvg-logo="https://lo1.in/FCB/mbcaction.png" group-title="Movies",MBC ACTION HD
@@ -43,8 +45,12 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/110613
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/159892
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="PREMIER LEAGUE 203 HD BK" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",PREMIER LEAGUE HD BK
 http://205853388600893159.ofkp911.xyz:80/play/ja926442/bfWhBgYVpFr/893159.ts
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="PREMIER LEAGUE 203 HD BK1" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",PREMIER LEAGUE HD BK1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/11642
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="204 LALIGA 204 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",204 LALIGA 204 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/159894
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="204 LALIGA 204 HD Bk" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",204 LALIGA 204 HD BK
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/194358
 #EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="205 FOOTBALL HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",205 FOOTBALL HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186875
 #EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="206 VARIETY 1 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",206 VARIETY 1 HD
