@@ -9889,4 +9889,189 @@
 <title lang="en">Sanyuka TV</title>
 <desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
 </programme>
+
+<channel id="mnet.za">
+<display-name lang="en">M-NET W HD</display-name>
+<icon src="https://lo1.in/af/mnet.png" />
+</channel>
+<programme start="20240921230000 +0000" stop="20240922000000 +0000" channel="mnet.za">
+<title lang="en">Knuckles</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922000000 +0000" stop="20240922010000 +0000" channel="mnet.za">
+<title lang="en">The Tattooist Of Auschwitz</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922010000 +0000" stop="20240922013000 +0000" channel="mnet.za">
+<title lang="en">Son Of A Critch</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922013000 +0000" stop="20240922020500 +0000" channel="mnet.za">
+<title lang="en">Son Of A Critch</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922020500 +0000" stop="20240922031000 +0000" channel="mnet.za">
+<title lang="en">Kings From Queens: The Run DMC Story</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922031000 +0000" stop="20240922041000 +0000" channel="mnet.za">
+<title lang="en">Bupkis</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922041000 +0000" stop="20240922053500 +0000" channel="mnet.za">
+<title lang="en">The Bachelor</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922053500 +0000" stop="20240922060000 +0000" channel="mnet.za">
+<title lang="en">Neighborhood</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922060000 +0000" stop="20240922063000 +0000" channel="mnet.za">
+<title lang="en">Extended Family</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922063000 +0000" stop="20240922070000 +0000" channel="mnet.za">
+<title lang="en">Extended Family</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922070000 +0000" stop="20240922080000 +0000" channel="mnet.za">
+<title lang="en">The Good Doctor</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922080000 +0000" stop="20240922090000 +0000" channel="mnet.za">
+<title lang="en">S.W.A.T.</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922090000 +0000" stop="20240922100000 +0000" channel="mnet.za">
+<title lang="en">SEAL Team</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922100000 +0000" stop="20240922110000 +0000" channel="mnet.za">
+<title lang="en">Law &amp; Order Toronto: Criminal Intent</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922110000 +0000" stop="20240922120000 +0000" channel="mnet.za">
+<title lang="en">Summertide</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922120000 +0000" stop="20240922140000 +0000" channel="mnet.za">
+<title lang="en">Upon The Magic Roads</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922140000 +0000" stop="20240922160000 +0000" channel="mnet.za">
+<title lang="en">The Bachelor</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922160000 +0000" stop="20240922170000 +0000" channel="mnet.za">
+<title lang="en">Allegiance</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922170000 +0000" stop="20240922180000 +0000" channel="mnet.za">
+<title lang="en">Law &amp; Order</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922180000 +0000" stop="20240922190000 +0000" channel="mnet.za">
+<title lang="en">Summertide</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922190000 +0000" stop="20240922200000 +0000" channel="mnet.za">
+<title lang="en">My Mom</title>
+<desc lang="en"> Your Dad</desc>
+</programme>
+<programme start="20240922200000 +0000" stop="20240922220000 +0000" channel="mnet.za">
+<title lang="en">Knox Goes Away</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922220000 +0000" stop="20240922230000 +0000" channel="mnet.za">
+<title lang="en">Spinners</title>
+<desc lang="en">&apos;S1/E3 - The Shabbat Dinner&apos;. Fugitives from the law</desc>
+</programme>
+<programme start="20240922230000 +0000" stop="20240922235500 +0000" channel="mnet.za">
+<title lang="en">Warrior</title>
+<desc lang="en">&apos;S3/E4 - In Chinatown</desc>
+</programme>
+<programme start="20240922235500 +0000" stop="20240923005900 +0000" channel="mnet.za">
+<title lang="en">Warrior</title>
+<desc lang="en">&apos;S3/E5 - Whiskey And Sticky And All The Rest Can Wait&apos;. Ah Sahm and Hong race against time to free a captured Young Jun before he&apos;s sent back to China. As Mai Ling hits rock bottom in prison</desc>
+</programme>
+<programme start="20240923005900 +0000" stop="20240923020000 +0000" channel="mnet.za">
+<title lang="en">Warrior</title>
+<desc lang="en">&apos;S3/E6 - A Soft Heart Won&apos;t Do You No Favours&apos;. Chao and Lee band together after an unexpected tossup threatens their lives. Meanwhile</desc>
+</programme>
+<programme start="20240923020000 +0000" stop="20240923030000 +0000" channel="mnet.za">
+<title lang="en">Warrior</title>
+<desc lang="en">&apos;S3/E7 - Gotta Be Crooked To Get Along In A Crooked World&apos;. With Father Jun badly injured</desc>
+</programme>
+<programme start="20240923030000 +0000" stop="20240923050000 +0000" channel="mnet.za">
+<title lang="en">Fear</title>
+<desc lang="en">A chilling horror movie. A much-needed getaway and a celebration weekend turns into a nightmare due to the contagious airborne threat.</desc>
+</programme>
+<programme start="20240923050000 +0000" stop="20240923064500 +0000" channel="mnet.za">
+<title lang="en">Cats In The Museum</title>
+<desc lang="en">An adventure-filled feline animation. A young cat and a mouse escape from a flood and end up at a museum. There</desc>
+</programme>
+<programme start="20240923064500 +0000" stop="20240923080000 +0000" channel="mnet.za">
+<title lang="en">The Block Australia</title>
+<desc lang="en">&apos;S17/E38 of 58 - Double Kids&apos; Bedroom Reveal&apos;. Couples compete against each other to renovate houses and auction them for the highest price</desc>
+</programme>
+<programme start="20240923080000 +0000" stop="20240923084800 +0000" channel="mnet.za">
+<title lang="en">America&apos;s Got Talent</title>
+<desc lang="en">&apos;S19/E13&apos;. Simon Cowell</desc>
+</programme>
+<programme start="20240923084800 +0000" stop="20240923094200 +0000" channel="mnet.za">
+<title lang="en">America&apos;s Got Talent: All Stars</title>
+<desc lang="en">&apos;S1/E15 - Final Performance Part 1&apos;. Simon Cowell</desc>
+</programme>
+<programme start="20240923094200 +0000" stop="20240923105000 +0000" channel="mnet.za">
+<title lang="en">America&apos;s Got Talent: All Stars</title>
+<desc lang="en">&apos;S1/E16 - Final Performance Part 2&apos;. Simon Cowell</desc>
+</programme>
+<programme start="20240923105000 +0000" stop="20240923120100 +0000" channel="mnet.za">
+<title lang="en">The Block Australia</title>
+<desc lang="en">&apos;S17/E38 of 58 - Double Kids&apos; Bedroom Reveal&apos;. Couples compete against each other to renovate houses and auction them for the highest price</desc>
+</programme>
+<programme start="20240923120100 +0000" stop="20240923130000 +0000" channel="mnet.za">
+<title lang="en">Allegiance</title>
+<desc lang="en">&apos;S1/E6 of 10 - Safe Harbours&apos;. A call to a motel leads Sabrina and Vince into the underbelly of a migrant worker trafficking ring. Ishaan sends Kyle undercover to meet a white supremacist who may have insight into Ajeet&apos;s arrest.</desc>
+</programme>
+<programme start="20240923130000 +0000" stop="20240923135900 +0000" channel="mnet.za">
+<title lang="en">America&apos;s Got Talent</title>
+<desc lang="en">&apos;S19/E13&apos;. Simon Cowell</desc>
+</programme>
+<programme start="20240923135900 +0000" stop="20240923145900 +0000" channel="mnet.za">
+<title lang="en">Law &amp; Order Toronto: Criminal Intent</title>
+<desc lang="en">&apos;S1/E1 - The Key To The Castle&apos;. A mysterious series premiere. Graff and Bateman investigate the disappearance of a crypto investor when he vanishes on Lake Ontario.</desc>
+</programme>
+<programme start="20240923145900 +0000" stop="20240923160000 +0000" channel="mnet.za">
+<title lang="en">Chicago Med</title>
+<desc lang="en">&apos;S9/E2 of 13 - This Town Ain&apos;t Big Enough For The Both Of Us&apos;. A woman from Archer&apos;s past returns and threatens his transplant surgery. Crockett clashes with Med&apos;s new</desc>
+</programme>
+<programme start="20240923160000 +0000" stop="20240923170000 +0000" channel="mnet.za">
+<title lang="en">Law &amp; Order</title>
+<desc lang="en">&apos;S3/E9 of 13 - Family Ties&apos;. When a congressman&apos;s aide is found dead after testifying in a corruption case</desc>
+</programme>
+<programme start="20240923170000 +0000" stop="20240923180000 +0000" channel="mnet.za">
+<title lang="en">Summertide</title>
+<desc lang="en">&apos;S1/E35 of 52&apos;. Martin confronts Tristan&apos;s rebellious behaviour. Emily reveals her pregnancy to Gavin. Wilma</desc>
+</programme>
+<programme start="20240923180000 +0000" stop="20240923190000 +0000" channel="mnet.za">
+<title lang="en">America&apos;s Got Talent</title>
+<desc lang="en">&apos;S19/E14&apos;. Simon Cowell</desc>
+</programme>
+<programme start="20240923190000 +0000" stop="20240923195900 +0000" channel="mnet.za">
+<title lang="en">The Good Doctor</title>
+<desc lang="en">&apos;S7/E9 of 10 - Unconditional&apos;. The Emmy-winning creator of &apos;House&apos; penned this intriguing medical drama. A young</desc>
+</programme>
+<programme start="20240923195900 +0000" stop="20240923210000 +0000" channel="mnet.za">
+<title lang="en">A Gentleman In Moscow</title>
+<desc lang="en">&apos;S1/E3 of 8 - The Last Rostov&apos;. As his old life crumbles</desc>
+</programme>
+<programme start="20240923210000 +0000" stop="20240923221500 +0000" channel="mnet.za">
+<title lang="en">Penguin</title>
+<desc lang="en">A riveting season premiere. Emboldened by the death of crime boss</desc>
+</programme>
+<programme start="20240923221500 +0000" stop="20240923232400 +0000" channel="mnet.za">
+<title lang="en">Westworld</title>
+<desc lang="en">&apos;S3/E1 of 8 - Parce Domine&apos;. After an explosive season two</desc>
+</programme>
 </tv>
