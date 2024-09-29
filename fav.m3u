@@ -10,16 +10,24 @@
 
 #EXTINF:-1 tvg-id="mnet.za" tvg-name="M-NET W HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",M-NET W HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14582
+#EXTINF:-1 tvg-id="mnet.za" tvg-name="M-NET W HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",M-NET W HD TW
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177881
 #EXTINF:-1 tvg-id="mmovies1.za" tvg-name="MM 1 W HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 1 W HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14583
 #EXTINF:-1 tvg-id="mmovies1.za" tvg-name="MM 1 W HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 1 W HD TW
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177882
 #EXTINF:-1 tvg-id="mmovies2.za" tvg-name="MM 2 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 2 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/14580
+#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="MM 2 HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 2 HD TW
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177883
 #EXTINF:-1 tvg-id="mmovies3.za" tvg-name="MM 3 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 3 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186854
+#EXTINF:-1 tvg-id="mmovies3.za" tvg-name="MM 3 HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 3 HD TW
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177884
 #EXTINF:-1 tvg-id="mmovies4.za" tvg-name="MM 4 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 4 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186853
+#EXTINF:-1 tvg-id="mmovies4.za" tvg-name="MM 4 HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 4 HD TW
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177854
 #EXTINF:-1 tvg-id="studiouniversal.za" tvg-name="STU UNI HD" tvg-logo="https://lo1.in/dstv/stunv.png" group-title="Movies",STU UNI HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186834
 #EXTINF:-1 tvg-id="universalchannel.za" tvg-name="UNIVERSAL TV HD" tvg-logo="https://lo1.in/dstv/unv.png" group-title="Movies",UNIVERSAL TV HD
@@ -30,6 +38,8 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/186836
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="kix.za" tvg-name="KIX HD Bk1" tvg-logo="https://lo1.in/indo/kix.png" group-title="Movies",KIX HD BK1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/297485
+#EXTINF:-1 tvg-id="kix.za" tvg-name="KIX HD TW" tvg-logo="https://lo1.in/indo/kix.png" group-title="Movies",KIX HD TW
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177895
 #EXTINF:-1 tvg-id="mbc2" tvg-name="MBC 2 HD" tvg-logo="https://lo1.in/FCB/Mbc2.png" group-title="Movies",MBC 2 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/122061
 #EXTINF:-1 tvg-id="mbcaction" tvg-name="MBC ACTION HD" tvg-logo="https://lo1.in/FCB/mbcaction.png" group-title="Movies",MBC ACTION HD
@@ -54,7 +64,7 @@ http://205853388600893159.ofkp911.xyz:80/play/ja926442/bfWhBgYVpFr/893159.ts
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="PREMIER LEAGUE 203 HD BK1" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",PREMIER LEAGUE HD BK1
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/11642
 #EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="PREMIER LEAGUE 203 HD TW" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",PREMIER LEAGUE HD TW
-http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/263
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/2630
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="204 LALIGA 204 HD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",204 LALIGA 204 HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/159894
 #EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="204 LALIGA 204 HD Bk" tvg-logo="https://lo1.in/uk/supsp.png" group-title="Sports",204 LALIGA 204 HD BK
@@ -172,6 +182,8 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/186791
 
 #EXTINF:-1 tvg-id="bba" tvg-name="198 BBNaija HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/397899_big_brother_naija_S9.JPG" tvg="Reality" group-title="ENTERTAINMENT",198 BBNaija HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/400218849
+#EXTINF:-1 tvg-id="bba" tvg-name="198 BBNaija HD TW" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/397899_big_brother_naija_S9.JPG" tvg="Reality" group-title="ENTERTAINMENT",198 BBNaija HD TW
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/225728
 #EXTINF:-1 tvg-id="etv.za" tvg-name="ETV HD" tvg-logo="https://lo1.in/dstv/etv.png" group-title="ENTERTAINMENT",ETV HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186842
 #EXTINF:-1 tvg-id="bbcbrit.za" tvg-name="BBC BRIT HD" tvg-logo="https://lo1.in/dstv/bbcb.png" group-title="ENTERTAINMENT",BBC BRIT HD
@@ -184,6 +196,8 @@ http://jppvaha.mnami.xyz:80/8456570294/1910151594/186866
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/7261
 #EXTINF:-1 tvg-id="nationalgeographicwildsouthafrica.za" tvg-name="Nat Geo WILD HD" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="ENTERTAINMENT",Nat Geo WILD HD
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/448159
+#EXTINF:-1 tvg-id="nationalgeographicwildsouthafrica.za" tvg-name="Nat Geo WILD HD TW2" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="ENTERTAINMENT",Nat Geo WILD HD TW2
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177791
 #EXTINF:-1 tvg-id="foodnetwork.za" tvg-name="FOOD NETWORK HD" tvg-logo="https://lo1.in/af/foodnetwo.png" group-title="ENTERTAINMENT",FOOD NETWORK HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186841
 #EXTINF:-1 tvg-id="cbsreality.za" tvg-name="CBS REALITY HD" tvg-logo="https://lo1.in/af/cbsreality.png" group-title="ENTERTAINMENT",CBS REALITY HD
