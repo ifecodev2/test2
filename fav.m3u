@@ -1,29 +1,17 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ifecodev2/test2/refs/heads/main/test2.xml"
 
-
-
-#EXTINF:-1 tvg-id="mnet.za" tvg-name="M-NET W HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",M-NET W HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/14582
 #EXTINF:-1 tvg-id="mnet.za" tvg-name="M-NET W HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",M-NET W HD TW
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177881
-#EXTINF:-1 tvg-id="mmovies1.za" tvg-name="MM 1 W HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 1 W HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/14583
 #EXTINF:-1 tvg-id="mmovies1.za" tvg-name="MM 1 W HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 1 W HD TW
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177882
-#EXTINF:-1 tvg-id="MAP" tvg-name="MM 2 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 2 HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/14580
 #EXTINF:-1 tvg-id="mmovies2.za" tvg-name="MM 2 HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 2 HD TW
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177883
-#EXTINF:-1 tvg-id="mmovies3.za" tvg-name="MM 3 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 3 HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/186854
 #EXTINF:-1 tvg-id="mmovies3.za" tvg-name="MM 3 HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 3 HD TW
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177884
-#EXTINF:-1 tvg-id="mmovies4.za" tvg-name="MM 4 HD" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 4 HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/186853
 #EXTINF:-1 tvg-id="mmovies4.za" tvg-name="MM 4 HD TW" tvg-logo="https://lo1.in/af/mnet.png" group-title="Movies",MM 4 HD TW
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177854
 #EXTINF:-1 tvg-id="studiouniversal.za" tvg-name="STU UNI HD" tvg-logo="https://lo1.in/dstv/stunv.png" group-title="Movies",STU UNI HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/186834
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/2400
 #EXTINF:-1 tvg-id="universalchannel.za" tvg-name="UNIVERSAL TV HD" tvg-logo="https://lo1.in/dstv/unv.png" group-title="Movies",UNIVERSAL TV HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/186848
 #EXTINF:-1 tvg-id="kix.za" tvg-name="KIX HD" tvg-logo="https://lo1.in/indo/kix.png" group-title="Movies",KIX HD
