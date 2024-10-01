@@ -111,6 +111,8 @@ http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177772
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/2582
 #EXTINF:-1 tvg-id="traceafrica.za" tvg-name="TRACE AFRICA HD" tvg-logo="https://lo1.in/af/tracaf.png" group-title="Music",TRACE AFRICA HD
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177767
+#EXTINF:-1 tvg-id="traceafrica.za" tvg-name="TRACE AFRICA HD" tvg-logo="https://lo1.in/af/tracaf.png" group-title="Music",TRACE AFRICA HD
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/2585
 #EXTINF:-1 tvg-id="traceurban.za" tvg-name="TRACE URBAN HD" tvg-logo="https://lo1.in/fr/trcu.png" group-title="Music",TRACE URBAN HD
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177768
 #EXTINF:-1 tvg-id="tracegospel.fr" tvg-name="TRACE GOSPEL HD" tvg-logo="https://lo1.in/af/tracegosp.png" group-title="Music",TRACE GOSPEL HD
@@ -127,17 +129,19 @@ http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/445196
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/2561
 #EXTINF:-1 tvg-id="soundcitytv.ng" tvg-name="SOUND CITY HD" tvg-logo="https://lo1.in/dstv/sndcty.png" group-title="Music",SOUND CITY HD
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/2563
+#EXTINF:-1 tvg-id="dancetv" tvg-name="|PL| Dance TV" tvg-logo="http://logo.ottcst.info/DANCETV.png" group-title="Music",|PL| Dance TV
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/574434
 
 #EXTINF:-1 tvg-id="bba" tvg-name="198 BBNaija HD TW" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/img/397899_big_brother_naija_S9.JPG" tvg="Reality" group-title="ENTERTAINMENT",198 BBNaija HD TW
 http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/225728
 #EXTINF:-1 tvg-id="etv.za" tvg-name="ETV HD" tvg-logo="https://lo1.in/dstv/etv.png" group-title="ENTERTAINMENT",ETV HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/186842
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/177870
 #EXTINF:-1 tvg-id="bbcbrit.za" tvg-name="BBC BRIT HD" tvg-logo="https://lo1.in/dstv/bbcb.png" group-title="ENTERTAINMENT",BBC BRIT HD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/186868
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/448305
 #EXTINF:-1 tvg-id="betafrica.us" tvg-name="BET AFRICA HD" tvg-logo="https://lo1.in/af/bet.png" group-title="ENTERTAINMENT",BET AFRICA HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/189777
 #EXTINF:-1 tvg-id="bet.za" tvg-name="BET FHD" tvg-logo="https://lo1.in/af/bet.png" group-title="ENTERTAINMENT",BET FHD
-http://jppvaha.mnami.xyz:80/8456570294/1910151594/186866
+http://twoone.ottct.pro:80/bosss/ZP6MPSFE3C/448301
 #EXTINF:-1 tvg-id="nationalgeographicsouthafrica.za" tvg-name="Nat Geo HD" tvg-logo="https://lo1.in/dstv/ntgio.png" group-title="ENTERTAINMENT",Nat Geo HD
 http://jppvaha.mnami.xyz:80/8456570294/1910151594/7261
 #EXTINF:-1 tvg-id="nationalgeographicwildsouthafrica.za" tvg-name="Nat Geo WILD HD" tvg-logo="https://lo1.in/dstv/ntgiowild.png" group-title="ENTERTAINMENT",Nat Geo WILD HD
