@@ -15937,4 +15937,1841 @@
 <title lang="en">Sanyuka TV</title>
 <desc lang="en">Sanyuka TV is 24-hour FTA channel that broadcasts in Luganda and airs a mix of popular talk shows</desc>
 </programme>
+
+<channel id="boomerang.za">
+<display-name lang="en">BOOMERANG HD</display-name>
+<icon src="https://lo1.in/af/boomrang.png" />
+</channel>
+<programme start="20241001000000 +0000" stop="20241001003000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">The Split Personality</desc>
+</programme>
+<programme start="20241001003000 +0000" stop="20241001010000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">Fred&apos;s Monkeyshines</desc>
+</programme>
+<programme start="20241001010000 +0000" stop="20241001013000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">The Flintstones Canaries</desc>
+</programme>
+<programme start="20241001013000 +0000" stop="20241001020000 +0000" channel="boomerang.za">
+<title lang="en">The Jetsons</title>
+<desc lang="en">The Little Man</desc>
+</programme>
+<programme start="20241001020000 +0000" stop="20241001023000 +0000" channel="boomerang.za">
+<title lang="en">The Jetsons</title>
+<desc lang="en">TV or Not TV</desc>
+</programme>
+<programme start="20241001023000 +0000" stop="20241001030000 +0000" channel="boomerang.za">
+<title lang="en">The Jetsons</title>
+<desc lang="en">Las Venus</desc>
+</programme>
+<programme start="20241001030000 +0000" stop="20241001033000 +0000" channel="boomerang.za">
+<title lang="en">The Scooby-Doo Show</title>
+<desc lang="en">High Rise Hair Raiser</desc>
+</programme>
+<programme start="20241001033000 +0000" stop="20241001040000 +0000" channel="boomerang.za">
+<title lang="en">The Scooby-Doo Show</title>
+<desc lang="en">The Fiesta Host Is an Aztec Ghost</desc>
+</programme>
+<programme start="20241001040000 +0000" stop="20241001043000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo</title>
+<desc lang="en"> Where Are You!</desc>
+</programme>
+<programme start="20241001043000 +0000" stop="20241001050000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo</title>
+<desc lang="en"> Where Are You!</desc>
+</programme>
+<programme start="20241001050000 +0000" stop="20241001053000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo and Guess Who?</title>
+<desc lang="en">What a Night for a Dark Knight!</desc>
+</programme>
+<programme start="20241001053000 +0000" stop="20241001060000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo and Guess Who?</title>
+<desc lang="en">Elementary</desc>
+</programme>
+<programme start="20241001060000 +0000" stop="20241001074500 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo! The Sword and the Scoob</title>
+<desc lang="en">(2021</desc>
+</programme>
+<programme start="20241001074500 +0000" stop="20241001080000 +0000" channel="boomerang.za">
+<title lang="en">Jellystone!</title>
+<desc lang="en">Mummy Knows Best</desc>
+</programme>
+<programme start="20241001080000 +0000" stop="20241001090000 +0000" channel="boomerang.za">
+<title lang="en">Tom &amp; Jerry</title>
+<desc lang="en">That&apos;s My Pup!</desc>
+</programme>
+<programme start="20241001090000 +0000" stop="20241001100000 +0000" channel="boomerang.za">
+<title lang="en">Looney Tunes</title>
+<desc lang="en">Holiday Highlights</desc>
+</programme>
+<programme start="20241001100000 +0000" stop="20241001110000 +0000" channel="boomerang.za">
+<title lang="en">Looney Tunes</title>
+<desc lang="en">Hair Raising Hare</desc>
+</programme>
+<programme start="20241001110000 +0000" stop="20241001113000 +0000" channel="boomerang.za">
+<title lang="en">A Pup Named Scooby-Doo</title>
+<desc lang="en">Wanted Cheddar Alive</desc>
+</programme>
+<programme start="20241001113000 +0000" stop="20241001120000 +0000" channel="boomerang.za">
+<title lang="en">A Pup Named Scooby-Doo</title>
+<desc lang="en">The Schnook Who Took My Comic Book</desc>
+</programme>
+<programme start="20241001120000 +0000" stop="20241001123000 +0000" channel="boomerang.za">
+<title lang="en">Baby Looney Tunes</title>
+<desc lang="en">All Washed Up; My Bunny Lies Over The Ocean (song); Did Not! Did Too!</desc>
+</programme>
+<programme start="20241001123000 +0000" stop="20241001130000 +0000" channel="boomerang.za">
+<title lang="en">Baby Looney Tunes</title>
+<desc lang="en">Tea &amp; Basketball; Down By The Cage (song); Taz You Like It</desc>
+</programme>
+<programme start="20241001130000 +0000" stop="20241001133000 +0000" channel="boomerang.za">
+<title lang="en">Flintstone Kids</title>
+<desc lang="en">Rubble Without a Cause; Dressed Up Dino; The Ditto Master</desc>
+</programme>
+<programme start="20241001133000 +0000" stop="20241001140000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">Monster From the Tar Pits</desc>
+</programme>
+<programme start="20241001140000 +0000" stop="20241001143000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">Glue for Two</desc>
+</programme>
+<programme start="20241001143000 +0000" stop="20241001150000 +0000" channel="boomerang.za">
+<title lang="en">The Jetsons</title>
+<desc lang="en">G.I. Jetson</desc>
+</programme>
+<programme start="20241001150000 +0000" stop="20241001153000 +0000" channel="boomerang.za">
+<title lang="en">The Yogi Bear Show</title>
+<desc lang="en">The Runaway Bear</desc>
+</programme>
+<programme start="20241001153000 +0000" stop="20241001163000 +0000" channel="boomerang.za">
+<title lang="en">The Tom and Jerry Show</title>
+<desc lang="en">Charm School Dropouts</desc>
+</programme>
+<programme start="20241001163000 +0000" stop="20241001170000 +0000" channel="boomerang.za">
+<title lang="en">The Looney Tunes Show</title>
+<desc lang="en">Bugs &amp; Daffy Get a Job</desc>
+</programme>
+<programme start="20241001170000 +0000" stop="20241001173000 +0000" channel="boomerang.za">
+<title lang="en">The Looney Tunes Show</title>
+<desc lang="en">That&apos;s My Baby</desc>
+</programme>
+<programme start="20241001173000 +0000" stop="20241001180000 +0000" channel="boomerang.za">
+<title lang="en">Shaggy &amp; Scooby-Doo Get a Clue!</title>
+<desc lang="en">More Fondue for Scooby-Doo!</desc>
+</programme>
+<programme start="20241001180000 +0000" stop="20241001183000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo</title>
+<desc lang="en"> Where Are You!</desc>
+</programme>
+<programme start="20241001183000 +0000" stop="20241001190000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo</title>
+<desc lang="en"> Where Are You!</desc>
+</programme>
+<programme start="20241001190000 +0000" stop="20241001193000 +0000" channel="boomerang.za">
+<title lang="en">The Scooby-Doo Show</title>
+<desc lang="en">The Gruesome Game of the Gator Ghoul</desc>
+</programme>
+<programme start="20241001193000 +0000" stop="20241001200000 +0000" channel="boomerang.za">
+<title lang="en">The Scooby-Doo Show</title>
+<desc lang="en">Watt a Shocking Ghost</desc>
+</programme>
+<programme start="20241001200000 +0000" stop="20241001203000 +0000" channel="boomerang.za">
+<title lang="en">Scooby and Scrappy and Yabba Doo</title>
+<desc lang="en">Who&apos;s Scooby-Doo?; Beauty Contest Caper; Runaway Scrappy</desc>
+</programme>
+<programme start="20241001203000 +0000" stop="20241001210000 +0000" channel="boomerang.za">
+<title lang="en">Scooby and Scrappy and Yabba Doo</title>
+<desc lang="en">Movie Monster Menace; Double Trouble Date; Slippery Dan the Escape Man</desc>
+</programme>
+<programme start="20241001210000 +0000" stop="20241001220000 +0000" channel="boomerang.za">
+<title lang="en">The New Scooby-Doo Movies</title>
+<desc lang="en">Scooby-Doo Meets the Addams Family</desc>
+</programme>
+<programme start="20241001220000 +0000" stop="20241001223000 +0000" channel="boomerang.za">
+<title lang="en">What&apos;s New Scooby-Doo?</title>
+<desc lang="en">A Scooby-Doo Christmas</desc>
+</programme>
+<programme start="20241001223000 +0000" stop="20241001230000 +0000" channel="boomerang.za">
+<title lang="en">What&apos;s New Scooby-Doo?</title>
+<desc lang="en">High-Tech House of the Future</desc>
+</programme>
+<programme start="20241001230000 +0000" stop="20241002000000 +0000" channel="boomerang.za">
+<title lang="en">Looney Tunes</title>
+<desc lang="en">Hair Raising Hare</desc>
+</programme>
+<programme start="20241002000000 +0000" stop="20241002003000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">Monster From the Tar Pits</desc>
+</programme>
+<programme start="20241002003000 +0000" stop="20241002010000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">Glue for Two</desc>
+</programme>
+<programme start="20241002010000 +0000" stop="20241002013000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">Big League Freddie</desc>
+</programme>
+<programme start="20241002013000 +0000" stop="20241002020000 +0000" channel="boomerang.za">
+<title lang="en">The Jetsons</title>
+<desc lang="en">G.I. Jetson</desc>
+</programme>
+<programme start="20241002020000 +0000" stop="20241002023000 +0000" channel="boomerang.za">
+<title lang="en">The Jetsons</title>
+<desc lang="en">Jane&apos;s Driving Lesson</desc>
+</programme>
+<programme start="20241002023000 +0000" stop="20241002030000 +0000" channel="boomerang.za">
+<title lang="en">The Jetsons</title>
+<desc lang="en">Dude Planet</desc>
+</programme>
+<programme start="20241002030000 +0000" stop="20241002033000 +0000" channel="boomerang.za">
+<title lang="en">The Scooby-Doo Show</title>
+<desc lang="en">The Gruesome Game of the Gator Ghoul</desc>
+</programme>
+<programme start="20241002033000 +0000" stop="20241002040000 +0000" channel="boomerang.za">
+<title lang="en">The Scooby-Doo Show</title>
+<desc lang="en">Watt a Shocking Ghost</desc>
+</programme>
+<programme start="20241002040000 +0000" stop="20241002043000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo</title>
+<desc lang="en"> Where Are You!</desc>
+</programme>
+<programme start="20241002043000 +0000" stop="20241002050000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo</title>
+<desc lang="en"> Where Are You!</desc>
+</programme>
+<programme start="20241002050000 +0000" stop="20241002053000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo and Guess Who?</title>
+<desc lang="en">A Mystery Solving Gang Divided!</desc>
+</programme>
+<programme start="20241002053000 +0000" stop="20241002060000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo and Guess Who?</title>
+<desc lang="en">Revenge of the Swamp Monster!</desc>
+</programme>
+<programme start="20241002060000 +0000" stop="20241002080000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo Meets the Boo Brothers</title>
+<desc lang="en">(1987</desc>
+</programme>
+<programme start="20241002080000 +0000" stop="20241002090000 +0000" channel="boomerang.za">
+<title lang="en">Tom &amp; Jerry</title>
+<desc lang="en">Neapolitan Mouse</desc>
+</programme>
+<programme start="20241002090000 +0000" stop="20241002100000 +0000" channel="boomerang.za">
+<title lang="en">Looney Tunes</title>
+<desc lang="en">Buckaroo Bugs</desc>
+</programme>
+<programme start="20241002100000 +0000" stop="20241002110000 +0000" channel="boomerang.za">
+<title lang="en">Looney Tunes</title>
+<desc lang="en">A Pest In the House</desc>
+</programme>
+<programme start="20241002110000 +0000" stop="20241002113000 +0000" channel="boomerang.za">
+<title lang="en">A Pup Named Scooby-Doo</title>
+<desc lang="en">For Letter or Worse</desc>
+</programme>
+<programme start="20241002113000 +0000" stop="20241002120000 +0000" channel="boomerang.za">
+<title lang="en">A Pup Named Scooby-Doo</title>
+<desc lang="en">The Baby Sitter From Beyond</desc>
+</programme>
+<programme start="20241002120000 +0000" stop="20241002123000 +0000" channel="boomerang.za">
+<title lang="en">Baby Looney Tunes</title>
+<desc lang="en">Band Together; Oh Where</desc>
+</programme>
+<programme start="20241002123000 +0000" stop="20241002130000 +0000" channel="boomerang.za">
+<title lang="en">Baby Looney Tunes</title>
+<desc lang="en">The Harder They Fall; The Hare Hid Under The Fountain (song); Business As Usual</desc>
+</programme>
+<programme start="20241002130000 +0000" stop="20241002133000 +0000" channel="boomerang.za">
+<title lang="en">Flintstone Kids</title>
+<desc lang="en">Dusty Disappears</desc>
+</programme>
+<programme start="20241002133000 +0000" stop="20241002140000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">The Babysitters</desc>
+</programme>
+<programme start="20241002140000 +0000" stop="20241002143000 +0000" channel="boomerang.za">
+<title lang="en">The Flintstones</title>
+<desc lang="en">Old Lady Betty</desc>
+</programme>
+<programme start="20241002143000 +0000" stop="20241002150000 +0000" channel="boomerang.za">
+<title lang="en">The Jetsons</title>
+<desc lang="en">Millionaire Astro</desc>
+</programme>
+<programme start="20241002150000 +0000" stop="20241002153000 +0000" channel="boomerang.za">
+<title lang="en">The Yogi Bear Show</title>
+<desc lang="en">Brainy Bear</desc>
+</programme>
+<programme start="20241002153000 +0000" stop="20241002163000 +0000" channel="boomerang.za">
+<title lang="en">The Tom and Jerry Show</title>
+<desc lang="en">Truffle Trouble</desc>
+</programme>
+<programme start="20241002163000 +0000" stop="20241002170000 +0000" channel="boomerang.za">
+<title lang="en">The Looney Tunes Show</title>
+<desc lang="en">DMV</desc>
+</programme>
+<programme start="20241002170000 +0000" stop="20241002173000 +0000" channel="boomerang.za">
+<title lang="en">The Looney Tunes Show</title>
+<desc lang="en">Off Duty Cop</desc>
+</programme>
+<programme start="20241002173000 +0000" stop="20241002180000 +0000" channel="boomerang.za">
+<title lang="en">Shaggy &amp; Scooby-Doo Get a Clue!</title>
+<desc lang="en">High Society Scooby</desc>
+</programme>
+<programme start="20241002180000 +0000" stop="20241002183000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo</title>
+<desc lang="en"> Where Are You!</desc>
+</programme>
+<programme start="20241002183000 +0000" stop="20241002190000 +0000" channel="boomerang.za">
+<title lang="en">Scooby-Doo</title>
+<desc lang="en"> Where Are You!</desc>
+</programme>
+<programme start="20241002190000 +0000" stop="20241002193000 +0000" channel="boomerang.za">
+<title lang="en">The Scooby-Doo Show</title>
+<desc lang="en">The Headless Horseman of Halloween</desc>
+</programme>
+<programme start="20241002193000 +0000" stop="20241002200000 +0000" channel="boomerang.za">
+<title lang="en">The Scooby-Doo Show</title>
+<desc lang="en">Scared a Lot in Camelot</desc>
+</programme>
+<programme start="20241002200000 +0000" stop="20241002203000 +0000" channel="boomerang.za">
+<title lang="en">Scooby and Scrappy and Yabba Doo</title>
+<desc lang="en">Dumb Waiter Caper; Comic Book Caper; Low-Down Showdown</desc>
+</programme>
+<programme start="20241002203000 +0000" stop="20241002210000 +0000" channel="boomerang.za">
+<title lang="en">Scooby and Scrappy and Yabba Doo</title>
+<desc lang="en">From Bad to Curse; Misfortune Teller; Vild Vest Vampire</desc>
+</programme>
+<programme start="20241002210000 +0000" stop="20241002220000 +0000" channel="boomerang.za">
+<title lang="en">The New Scooby-Doo Movies</title>
+<desc lang="en">The Frickert Fracas</desc>
+</programme>
+<programme start="20241002220000 +0000" stop="20241002223000 +0000" channel="boomerang.za">
+<title lang="en">What&apos;s New Scooby-Doo?</title>
+<desc lang="en">Large Dragon at Large</desc>
+</programme>
+<programme start="20241002223000 +0000" stop="20241002230000 +0000" channel="boomerang.za">
+<title lang="en">What&apos;s New Scooby-Doo?</title>
+<desc lang="en">Mummy Scares Best</desc>
+</programme>
+<programme start="20241002230000 +0000" stop="20241003000000 +0000" channel="boomerang.za">
+<title lang="en">Looney Tunes</title>
+<desc lang="en">A Pest In the House</desc>
+</programme>
+<channel id="cartoonnetwork.za">
+<display-name lang="en">CARTOON NETWORK HD TW</display-name>
+<icon src="https://lo1.in/af/cn.png" />
+</channel>
+<programme start="20240930225500 +0000" stop="20240930230500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E12 - Sparkle Cadet&apos;. Craig</desc>
+</programme>
+<programme start="20240930230500 +0000" stop="20240930231500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E15 - Stink Bomb&apos;. An accidental stink bomb explosion causes the kids to evacuate the Creek</desc>
+</programme>
+<programme start="20240930231500 +0000" stop="20240930232000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E8 - Summer Wish&apos;. When Craig decides to keep a lightning bug in a jar he disrupts the delicate balance of Summer.</desc>
+</programme>
+<programme start="20240930232000 +0000" stop="20240930233000 +0000" channel="cartoonnetwork.za">
+<title lang="en">We Bare Bears</title>
+<desc lang="en">&apos;S4/E31 - Bros In The City&apos;. The Bears star in a reality TV show along with Griff</desc>
+</programme>
+<programme start="20240930233000 +0000" stop="20240930234000 +0000" channel="cartoonnetwork.za">
+<title lang="en">We Bare Bears</title>
+<desc lang="en">&apos;S4/E32 - Band Of Outsiders&apos;. A gang of streetwise kids take Baby Ice Bear under their wing.</desc>
+</programme>
+<programme start="20240930234000 +0000" stop="20240930235000 +0000" channel="cartoonnetwork.za">
+<title lang="en">We Bare Bears</title>
+<desc lang="en">&apos;S4/E33 - Baby Orphan Ninja Bears&apos;. The Baby Bears venture into the sewers and meet a ninja-like martial arts master.</desc>
+</programme>
+<programme start="20240930235000 +0000" stop="20241001000500 +0000" channel="cartoonnetwork.za">
+<title lang="en">We Bare Bears</title>
+<desc lang="en">&apos;S4/E34 - Panda&apos;s Birthday&apos;. For Panda&apos;s Birthday</desc>
+</programme>
+<programme start="20241001000500 +0000" stop="20241001001500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Summer Camp Island</title>
+<desc lang="en">&apos;S2/E51 - Honeydew Hatch&apos;. Oscar and Hedgehog travel to frozen time to help Ramona with her time babies.</desc>
+</programme>
+<programme start="20241001001500 +0000" stop="20241001002500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Summer Camp Island</title>
+<desc lang="en">&apos;S2/E52 - The Later Pile&apos;. Hedgehog goes to great lengths to help Oscar return an overdue movie.</desc>
+</programme>
+<programme start="20241001002500 +0000" stop="20241001003500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Summer Camp Island</title>
+<desc lang="en">&apos;S2/E53 - Oddjobs&apos;. Oscar and Hedgehog spend the day helping the monsters prepare for Sweater Breakfast in the UMPS warehouse.</desc>
+</programme>
+<programme start="20241001003500 +0000" stop="20241001005000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Summer Camp Island</title>
+<desc lang="en">&apos;S2/E54 - Light as a Feather&apos;. Hedgehog attends a spooky coven sleepover.</desc>
+</programme>
+<programme start="20241001005000 +0000" stop="20241001010000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S8 - Islands Part 5: Hide and Seek&apos;. While exploring some futuristic ruins</desc>
+</programme>
+<programme start="20241001010000 +0000" stop="20241001011000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S8 - Islands Part 6: Min &amp; Marty&apos;. An unexpected revelation from Susan leads Finn closer to answers about his past.</desc>
+</programme>
+<programme start="20241001011000 +0000" stop="20241001012000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S8 - Islands Part 7: Helpers&apos;. Finn and his friends journey to a last refuge called Founders Island.</desc>
+</programme>
+<programme start="20241001012000 +0000" stop="20241001013000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S8 - Islands Part 8: The Light Cloud&apos;. Finn confronts the power behind Founder&apos;s Island</desc>
+</programme>
+<programme start="20241001013000 +0000" stop="20241001014000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S7/E7 - Cat Videos&apos;. Mordecai and Rigby have to get Benson to stop watching cat videos.</desc>
+</programme>
+<programme start="20241001014000 +0000" stop="20241001015000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S7/E8 - Struck by Lightning&apos;. Muscle Man and High Five Ghost get struck by lightning and can&apos;t remember each other.</desc>
+</programme>
+<programme start="20241001015000 +0000" stop="20241001020000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S7/E11 - The Return of Party Horse&apos;. Mordecai and Rigby want to help their friend Party Horse get back together with his girlfriend.</desc>
+</programme>
+<programme start="20241001020000 +0000" stop="20241001021500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S7/E12 - Sleep Cycle&apos;. After staying up for two straight nights watching a movie marathron</desc>
+</programme>
+<programme start="20241001021500 +0000" stop="20241001022500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S1/E16 - Squish Or Miss&apos;. Augie and Shag help Yakky get over her crippling fear of nearly everything.</desc>
+</programme>
+<programme start="20241001022500 +0000" stop="20241001023500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S1/E17 - Gotta Kiss Them All&apos;. Augie and Yakky play a VR game that has real-world consequences.</desc>
+</programme>
+<programme start="20241001023500 +0000" stop="20241001024500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S1/E18 - Jelly Wrestle Rumble!&apos;. Huckleberry Hound hosts a wrestling tournament so that his childhood hero</desc>
+</programme>
+<programme start="20241001024500 +0000" stop="20241001030000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S1/E19 - A Fish Sticky Situation&apos;. Top Cat and the gang accidentally transform the town when they sell expired fish sticks to everyone.</desc>
+</programme>
+<programme start="20241001030000 +0000" stop="20241001031000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Bionic Max</title>
+<desc lang="en">&apos;S1/E5 - Molehill Mountain&apos;. Max</desc>
+</programme>
+<programme start="20241001031000 +0000" stop="20241001032000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Bionic Max</title>
+<desc lang="en">&apos;S1/E6 - Ouest Pie Story&apos;. Max</desc>
+</programme>
+<programme start="20241001032000 +0000" stop="20241001033000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S1 - Ben Again &amp; Again&apos;. Billy Billions tries to remove Ben from the Omnitrix.</desc>
+</programme>
+<programme start="20241001033000 +0000" stop="20241001034000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S2/E20 - All Koiled Up&apos;. When Ben grows impatient with the snail-like pace of gardening</desc>
+</programme>
+<programme start="20241001034000 +0000" stop="20241001035000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E14 - Books&apos;. Raven shows the rest of the Titans that books can be fun.</desc>
+</programme>
+<programme start="20241001035000 +0000" stop="20241001040000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E14 - Lazy Sunday&apos;. When the Titans replace the couch with a treadmill Cyborg and Beast Boy must get guidance from the couch spirit.</desc>
+</programme>
+<programme start="20241001040000 +0000" stop="20241001041000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E6 - Marv Wolfman &amp; George Perez&apos;. Marv Wolfman and George Pérez must pitch an idea for the new Teen Titans in 24 hours</desc>
+</programme>
+<programme start="20241001041000 +0000" stop="20241001042000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E12 - T is for Titans&apos;. The Titans are shocked to learn that the T Tower had previous owners.</desc>
+</programme>
+<programme start="20241001042000 +0000" stop="20241001043500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Hero Inside</title>
+<desc lang="en">&apos;S1/E11 - Villains vs Heroes&apos;. The epic battle between Dirk O</desc>
+</programme>
+<programme start="20241001043500 +0000" stop="20241001045500 +0000" channel="cartoonnetwork.za">
+<title lang="en">LEGO DREAMZzz</title>
+<desc lang="en">&apos;S2/E1 - Sheep Freak&apos;. While handling a tricky incursion case</desc>
+</programme>
+<programme start="20241001045500 +0000" stop="20241001050000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E4 - Wallpapering Magoo&apos;. Everybody loves Magoo! This cheerful guy&apos;s always happy to lend a helping hand.</desc>
+</programme>
+<programme start="20241001050000 +0000" stop="20241001051000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E108 - A Mountaineer Like No Other&apos;. Magoo climbs a skyscraper</desc>
+</programme>
+<programme start="20241001051000 +0000" stop="20241001052000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E109 - Legs of Steel&apos;. Everybody loves Magoo! This cheerful guy&apos;s always happy to lend a helping hand.</desc>
+</programme>
+<programme start="20241001052000 +0000" stop="20241001054500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Pokémon Horizons: The Series</title>
+<desc lang="en">&apos;S1/E16 - Quaxly</desc>
+</programme>
+<programme start="20241001054500 +0000" stop="20241001055500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E9 - Space House Part 3&apos;. The Titans set off on an adventure in space with the DC Superhero Girls.</desc>
+</programme>
+<programme start="20241001055500 +0000" stop="20241001060500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E10 - Space House Part 4&apos;. The free vacation in space was just an elaborate plot by Brainiac to collect every hero and villain in the DC Multiverse.</desc>
+</programme>
+<programme start="20241001060500 +0000" stop="20241001061500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E52 - Feed Me&apos;. The Titans release a small marshmallow ducky that the Easter Bunny had locked up</desc>
+</programme>
+<programme start="20241001061500 +0000" stop="20241001062500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E3 - Pig in a Poke&apos;. The Titans are worried when Starfire says she has sent all of her money to a prince online</desc>
+</programme>
+<programme start="20241001062500 +0000" stop="20241001063500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E45 - Watchtower Tours&apos;. Booster Gold makes some extra cash giving Watchtower tours.</desc>
+</programme>
+<programme start="20241001063500 +0000" stop="20241001065000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E50 - Unleashed&apos;. While the Justice League is away on a mission</desc>
+</programme>
+<programme start="20241001065000 +0000" stop="20241001071000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Hero Inside</title>
+<desc lang="en">&apos;S1/E2 - The Darkest Night&apos;. Boastful superhero Black Knight sneaks into a house to acquire a Hero Book but accidentally starts a fire.</desc>
+</programme>
+<programme start="20241001071000 +0000" stop="20241001072000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S1 - Double Hex&apos;. When a forest fire interrupts their fun</desc>
+</programme>
+<programme start="20241001072000 +0000" stop="20241001073000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S1 - Ye Olde Laser Duel&apos;. As Team Tennyson admires the efficiency of a super modern train station</desc>
+</programme>
+<programme start="20241001073000 +0000" stop="20241001075000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Power Rangers Super Ninja Steel</title>
+<desc lang="en">&apos;S1/E10 - Power Rangers Super Ninja Steel 10&apos;. The Rangers engage in an epic battle against Lord Draven and his army of Ranger clones.</desc>
+</programme>
+<programme start="20241001075000 +0000" stop="20241001081000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Power Rangers Super Ninja Steel</title>
+<desc lang="en">&apos;S1/E11 - Love Stings&apos;. Preston learns not to believe everything he hears.</desc>
+</programme>
+<programme start="20241001081000 +0000" stop="20241001082000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E15 - Smile Bones&apos;. When Cyborg and Beast Boy teach the other Titans to wolf down their food the gang develops a big fat problem.</desc>
+</programme>
+<programme start="20241001082000 +0000" stop="20241001083500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E15 - Real Boy Adventures&apos;. When he transforms into Fleshy Guy Cyborg discovers the joy and pain of being human.</desc>
+</programme>
+<programme start="20241001083500 +0000" stop="20241001084500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E16 - Yearbook Madness&apos;. Beast Boy and Cyborg decide to make a yearbook for the Titans.</desc>
+</programme>
+<programme start="20241001084500 +0000" stop="20241001090000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E16 - Hose Water&apos;. When Cyborg and Starfire find a baby bird it awakens their inner child.</desc>
+</programme>
+<programme start="20241001090000 +0000" stop="20241001092000 +0000" channel="cartoonnetwork.za">
+<title lang="en">LEGO DREAMZzz</title>
+<desc lang="en">&apos;S1/E14&apos;. The hunt for the Sandman</desc>
+</programme>
+<programme start="20241001092000 +0000" stop="20241001093000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E10 - Meatball Party&apos;. Raven eats a bad meatball that causes tentacles to spring from her teeth and devour the other Titans.</desc>
+</programme>
+<programme start="20241001093000 +0000" stop="20241001094000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E10 - Staff Meeting&apos;. When the gang breaks Robin&apos;s beloved staff Robin is forced to find a replacement.</desc>
+</programme>
+<programme start="20241001094000 +0000" stop="20241001095000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E11 - Terra-ized&apos;. Beast Boy falls for Terra despite clear signs that she is more interested in destroying the Titans.</desc>
+</programme>
+<programme start="20241001095000 +0000" stop="20241001100500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E11 - Artful Dodgers&apos;. The Titans revert to creative game-playing in order to have a chance at beating the undefeated supervillain dodgeball team.</desc>
+</programme>
+<programme start="20241001100500 +0000" stop="20241001101000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E1 - TransmorgaFizz&apos;. Magoo performs a body swap between Fizz and a chihuahua.</desc>
+</programme>
+<programme start="20241001101000 +0000" stop="20241001101500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E16 - Fizz Magic&apos;. Magoo mistakes Fizz for Mr. Cat&apos;s favorite actress.</desc>
+</programme>
+<programme start="20241001101500 +0000" stop="20241001102500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E2 - Mama Weasel&apos;. Magoo mistakes Weasel&apos;s mother for a witch.</desc>
+</programme>
+<programme start="20241001102500 +0000" stop="20241001104000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Amazing World Of Gumball</title>
+<desc lang="en">&apos;S1/E2 - The Painting&apos;. Principal Brown tries to &apos;fix&apos; Gumball&apos;s dysfunctional family.</desc>
+</programme>
+<programme start="20241001104000 +0000" stop="20241001105000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1 - Blisstersweet Symphony&apos;. When Him absorbs Bliss and her powers</desc>
+</programme>
+<programme start="20241001105000 +0000" stop="20241001110000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S2/E2 - Green Wing&apos;. When volunteering at a retirement home</desc>
+</programme>
+<programme start="20241001110000 +0000" stop="20241001111000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S1 - The Charm Offensive&apos;. When Gwen is confronted by Charmcaster looking to avenge Michael Morningstar</desc>
+</programme>
+<programme start="20241001111000 +0000" stop="20241001112500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S1 - Super-Villain Team-Up&apos;. Ben suggests he might be a better hero if he went solo.</desc>
+</programme>
+<programme start="20241001112500 +0000" stop="20241001114500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ninjago: Dragons Rising</title>
+<desc lang="en">&apos;S2/E3 - Beyond the Phantasm Cave&apos;. Reeling from their recent defeat</desc>
+</programme>
+<programme start="20241001114500 +0000" stop="20241001121000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Dragon Ball Super</title>
+<desc lang="en">&apos;S1/E69 - Goku vs. Arale! An Off-the-Wall Battle Spells the End of the Earth?!&apos;. During an invention award show that Bulma is attending</desc>
+</programme>
+<programme start="20241001121000 +0000" stop="20241001123000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jade Armor</title>
+<desc lang="en">&apos;S1/E17 - The Beastibot&apos;. L.J. gets hooked on a Jade Armor video game</desc>
+</programme>
+<programme start="20241001123000 +0000" stop="20241001124000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E51 - Bumgorf&apos;. When the Titans realize they have not seen Silkie for a long time</desc>
+</programme>
+<programme start="20241001124000 +0000" stop="20241001125500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E48 - The Mug&apos;. Robin dreams of receiving a #1 Dad mug so Raven magically turns them into a sitcom family.</desc>
+</programme>
+<programme start="20241001125500 +0000" stop="20241001130500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E50 - Hafo Safo&apos;. The Titans travel to the hipster neighborhood of Silver Lake</desc>
+</programme>
+<programme start="20241001130500 +0000" stop="20241001131500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E52 - Zimdings&apos;. When Robin selects the last font on the list for his presentation</desc>
+</programme>
+<programme start="20241001131500 +0000" stop="20241001133000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E47 - Captain Bamboozle&apos;. Mr. Mxyzptlk decides to create some mischief by endowing Shazam&apos;s well-meaning Uncle Dudley with superpowers bigger than anyone in the league.</desc>
+</programme>
+<programme start="20241001133000 +0000" stop="20241001134000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E49 - 50% Chad&apos;. Having grown tired of their current villains</desc>
+</programme>
+<programme start="20241001134000 +0000" stop="20241001135000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E50 - The Score&apos;. The Titans have a hard time dealing with their emotions when an evil composer changes the music in their show.</desc>
+</programme>
+<programme start="20241001135000 +0000" stop="20241001140000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E47 - Jump City Rock&apos;. The Titans teams up with Nandi and Thomas Bushell to take down The Joker.</desc>
+</programme>
+<programme start="20241001140000 +0000" stop="20241001141000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E51 - 365!&apos;. Wanting their 365th episode to be extra special</desc>
+</programme>
+<programme start="20241001141000 +0000" stop="20241001143500 +0000" channel="cartoonnetwork.za">
+<title lang="en">LEGO DREAMZzz</title>
+<desc lang="en">&apos;S2/E2 - Memory Chasers&apos;. Reeling from the loss of their memories</desc>
+</programme>
+<programme start="20241001143500 +0000" stop="20241001144000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E4 - All About Fizz&apos;. Magoo mistakes Fizz&apos;s diary for a lost manuscript.</desc>
+</programme>
+<programme start="20241001144000 +0000" stop="20241001145000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E7 - The Amazing Colossal Magoo&apos;. Magoo becomes a giant and spreads panic throughout the city.</desc>
+</programme>
+<programme start="20241001145000 +0000" stop="20241001145500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E11 - Hot Dog With Relish&apos;. Mr. Cat uses the RegaloFizz to turn everything into hot dogs.</desc>
+</programme>
+<programme start="20241001145500 +0000" stop="20241001150500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E4 - That&apos;s What&apos;s Up&apos;. Beast Boy heads back east to visit his family</desc>
+</programme>
+<programme start="20241001150500 +0000" stop="20241001151500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E5 - Crab Shenanigans&apos;. Beast Boy</desc>
+</programme>
+<programme start="20241001151500 +0000" stop="20241001153000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E6 - Brobots&apos;. Cyborg comes to visit Beast Boy</desc>
+</programme>
+<programme start="20241001153000 +0000" stop="20241001155000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Pokémon Horizons: The Series</title>
+<desc lang="en">&apos;S1/E17 - Special Training Time!&apos;. Fuecoco and Wattrel aren&apos;t getting along</desc>
+</programme>
+<programme start="20241001155000 +0000" stop="20241001160000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E10 - Under a Red Sun&apos;. Steppenwolf &apos;boom tubes&apos; Superman to a planet with a red sun in order to make the Man of Steel powerless.</desc>
+</programme>
+<programme start="20241001160000 +0000" stop="20241001161500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E11 - Play Date&apos;. Toyman takes over the Justice League and turns them into avatars in a diabolical video game.</desc>
+</programme>
+<programme start="20241001161500 +0000" stop="20241001162500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S1/E13 - Dna</desc>
+</programme>
+<programme start="20241001162500 +0000" stop="20241001164000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S1/E14 - Face Of The Town!&apos;. Mayor Huckleberry holds a city-wide contest to find out which Jellystone citizen most represents the town.</desc>
+</programme>
+<programme start="20241001164000 +0000" stop="20241001165000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S3/E5 - Spice Game&apos;. Tired of Robin&apos;s bland cooking</desc>
+</programme>
+<programme start="20241001165000 +0000" stop="20241001170000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S3/E6 - I&apos;m the Sauce&apos;. Stuck inside because of bad weather</desc>
+</programme>
+<programme start="20241001170000 +0000" stop="20241001171000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S3/E7 - Accept the Next Proposition You Hear&apos;. Robin refuses to give the Titans any more orders so that they&apos;ll learn to think for themselves.</desc>
+</programme>
+<programme start="20241001171000 +0000" stop="20241001172000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S3/E8 - Hey You</desc>
+</programme>
+<programme start="20241001172000 +0000" stop="20241001174000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jade Armor</title>
+<desc lang="en">&apos;S1/E23 - La Vie en Rose&apos;. When L.J.&apos;s rose-tinted sunglasses turn out to be Shard-tinted</desc>
+</programme>
+<programme start="20241001174000 +0000" stop="20241001180000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Power Rangers Super Ninja Steel</title>
+<desc lang="en">&apos;S1/E3 - Tough Love&apos;. Levi tries to change himself to impress a mysterious street performer.</desc>
+</programme>
+<programme start="20241001180000 +0000" stop="20241001182500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Power Rangers Super Ninja Steel</title>
+<desc lang="en">&apos;S1/E4 - Making Waves&apos;. When a monster threatens Summer Cove</desc>
+</programme>
+<programme start="20241001182500 +0000" stop="20241001183500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E16 - Yearbook Madness&apos;. Beast Boy and Cyborg decide to make a yearbook for the Titans.</desc>
+</programme>
+<programme start="20241001183500 +0000" stop="20241001184500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E16 - Hose Water&apos;. When Cyborg and Starfire find a baby bird it awakens their inner child.</desc>
+</programme>
+<programme start="20241001184500 +0000" stop="20241001185500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E64 - Fizz FM&apos;. Everybody loves Magoo! This cheerful guy&apos;s always happy to lend a helping hand.</desc>
+</programme>
+<programme start="20241001185500 +0000" stop="20241001190500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E65 - Magoo 2.0&apos;. Everybody loves Magoo! This cheerful guy&apos;s always happy to lend a helping hand.</desc>
+</programme>
+<programme start="20241001190500 +0000" stop="20241001191000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E66 - Mr Fixit&apos;. Magoo mistakes Fizz&apos;s teleporter for a coffee maker.</desc>
+</programme>
+<programme start="20241001191000 +0000" stop="20241001192000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1/E7 - Bye Bye</desc>
+</programme>
+<programme start="20241001192000 +0000" stop="20241001193000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1/E11 - Tiara Trouble&apos;. Bubbles&apos; excitement over being a contestant in The Townsville Pageant is ruined when Blossom and Buttercup become overbearing stage-sisters.</desc>
+</programme>
+<programme start="20241001193000 +0000" stop="20241001194000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1/E1 - Escape from Monster Island&apos;. After Bubbles wins two tickets to see the girls&apos; favourite band Blossom and Buttercup compete for her plus-one.</desc>
+</programme>
+<programme start="20241001194000 +0000" stop="20241001195500 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1/E10 - Power Up</desc>
+</programme>
+<programme start="20241001195500 +0000" stop="20241001200500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Apple &amp; Onion</title>
+<desc lang="en">&apos;S1/E29 - Apple&apos;s Formula&apos;. Apple needs to find a funny formula that will land him a comedic role in a movie.</desc>
+</programme>
+<programme start="20241001200500 +0000" stop="20241001201500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Apple &amp; Onion</title>
+<desc lang="en">&apos;S1/E31 - Appleoni&apos;. Apple and Onion want credit for creating a new dance craze.</desc>
+</programme>
+<programme start="20241001201500 +0000" stop="20241001202500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Apple &amp; Onion</title>
+<desc lang="en">&apos;S1/E30 - River Of Gold&apos;. Apple and Onion try to finish a story before the book disappears forever.</desc>
+</programme>
+<programme start="20241001202500 +0000" stop="20241001204000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Apple &amp; Onion</title>
+<desc lang="en">&apos;S1/E32 - Falafel&apos;s in Jail&apos;. Apple and Onion must get Falafel out of jail for a crime he did not commit.</desc>
+</programme>
+<programme start="20241001204000 +0000" stop="20241001205000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S6/E18 - Graybles 1000+&apos;. Cuber returns for the telling of another instalment of the Graybles.</desc>
+</programme>
+<programme start="20241001205000 +0000" stop="20241001210000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S6/E19 - You Forgot Your Floaties&apos;. Finn and Jake storm Magic Man&apos;s house to rescue his apprentice.</desc>
+</programme>
+<programme start="20241001210000 +0000" stop="20241001211000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S6/E19 - Be Sweet&apos;. Lumpy Space Princess leaves the woods for babysitting.</desc>
+</programme>
+<programme start="20241001211000 +0000" stop="20241001212000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S7/E19 - Bad Jubies&apos;. There&apos;s a catastrophic storm headed for the Grasslands</desc>
+</programme>
+<programme start="20241001212000 +0000" stop="20241001213000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S4/E35 - Blind Trust&apos;. Benson must trust Mordecai and Rigby to get him down a mountain.</desc>
+</programme>
+<programme start="20241001213000 +0000" stop="20241001214000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S4/E38 - Sleep Fighter&apos;. The guys must help Muscle Man stop fighting in his sleep.</desc>
+</programme>
+<programme start="20241001214000 +0000" stop="20241001215500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S4/E37 - Party Re-Pete&apos;. Mordecai and Rigby have to save Benson from an evil party.</desc>
+</programme>
+<programme start="20241001215500 +0000" stop="20241001220500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E31 - A Holiday Story&apos;. Santa Claus enlists Beast Boy&apos;s help in getting him back into the Holiday Mob</desc>
+</programme>
+<programme start="20241001220500 +0000" stop="20241001221500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E26 - Captain Cool&apos;. The Titans&apos; antics with their imaginary friend Captain Cool annoy Robin until make-believe starts becoming real.</desc>
+</programme>
+<programme start="20241001221500 +0000" stop="20241001222500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E29 - Glunkakakakah&apos;. Robin teaches the other Titans the art of concealment through a game of hide and seek.</desc>
+</programme>
+<programme start="20241001222500 +0000" stop="20241001223500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E38 - Whodundidit?&apos;. While housesitting at Wayne Manor</desc>
+</programme>
+<programme start="20241001223500 +0000" stop="20241001224500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E22 - Tea Timer&apos;s Ball&apos;. The Tea Timers throw a dance and invite everyone in the Creek. Craig believes it&apos;s solely to prank him</desc>
+</programme>
+<programme start="20241001224500 +0000" stop="20241001225500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E9 - Turning The Tables&apos;. Craig dines at the restaurant where his older brother works and orders up a plate of REVENGE... and lots of breadsticks.</desc>
+</programme>
+<programme start="20241001225500 +0000" stop="20241001230500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E14 - Camper On The Run&apos;. A runaway from a summer camp ends up at the Stump</desc>
+</programme>
+<programme start="20241001225500 +0000" stop="20241001230500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E14 - Camper On The Run&apos;. A runaway from a summer camp ends up at the Stump</desc>
+</programme>
+<programme start="20241001230500 +0000" stop="20241001231500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E10 - Kelsey The Author&apos;. Craig and Stacks help Kelsey become a real author turning her story into a book!</desc>
+</programme>
+<programme start="20241001231500 +0000" stop="20241001232000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E19 - Creek Daycare&apos;. Craig and his sister</desc>
+</programme>
+<programme start="20241001232000 +0000" stop="20241001233000 +0000" channel="cartoonnetwork.za">
+<title lang="en">We Baby Bears</title>
+<desc lang="en">&apos;S1/E1 - The Magical Box&apos;. Three baby bear brothers are granted a magical box that can transport them to any place in the universe.</desc>
+</programme>
+<programme start="20241001233000 +0000" stop="20241001234000 +0000" channel="cartoonnetwork.za">
+<title lang="en">We Baby Bears</title>
+<desc lang="en">&apos;S1/E2 - Bears and the Beanstalk&apos;. The Bears work as short-order cooks in a giant&apos;s diner.</desc>
+</programme>
+<programme start="20241001234000 +0000" stop="20241001235000 +0000" channel="cartoonnetwork.za">
+<title lang="en">We Baby Bears</title>
+<desc lang="en">&apos;S1/E3 - Boo-Dunnit&apos;. While visiting a mansion haunted by ghosts</desc>
+</programme>
+<programme start="20241001235000 +0000" stop="20241002000500 +0000" channel="cartoonnetwork.za">
+<title lang="en">We Baby Bears</title>
+<desc lang="en">&apos;S1/E4 - The Little Mer-Bear&apos;. In order to live under the sea the Bears must transform into mermaids.</desc>
+</programme>
+<programme start="20241002000500 +0000" stop="20241002001500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Summer Camp Island</title>
+<desc lang="en">&apos;S2/E55 - Tub on the Run&apos;. Hedgehog and Max try to locate a lost bathtub.</desc>
+</programme>
+<programme start="20241002001500 +0000" stop="20241002002500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Summer Camp Island</title>
+<desc lang="en">&apos;S2/E57 - Glow Worm&apos;. Shark helps Oscar visit his past to learn something interesting about himself.</desc>
+</programme>
+<programme start="20241002002500 +0000" stop="20241002003500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Summer Camp Island</title>
+<desc lang="en">&apos;S2/E58 - Catacombs&apos;. Oscar</desc>
+</programme>
+<programme start="20241002003500 +0000" stop="20241002005000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Summer Camp Island</title>
+<desc lang="en">&apos;S2/E59 - Just You and Me&apos;. Susie attempts to discover Betsy&apos;s full moon secret.</desc>
+</programme>
+<programme start="20241002005000 +0000" stop="20241002010000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S1/E1 - Slumber Party Panic&apos;. Princess Bubblegum and Finn accidentally create candy zombies....</desc>
+</programme>
+<programme start="20241002010000 +0000" stop="20241002011000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S1/E1 - Trouble in Lumpy Space&apos;. Jake starts to turn lumpy!</desc>
+</programme>
+<programme start="20241002011000 +0000" stop="20241002012000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S1/E2 - enchiridion&apos;. Finn and Jake embark on a quest for a book...</desc>
+</programme>
+<programme start="20241002012000 +0000" stop="20241002013000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S1/E2 - The Jiggler&apos;. Finn and Jake happen upon a jiggly creature!</desc>
+</programme>
+<programme start="20241002013000 +0000" stop="20241002014000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S7/E13 - Just Friends&apos;. Rigby and Eileen get called away to Don&apos;s black belt ceremony forcing Mordecai and Margaret to hang out alone.</desc>
+</programme>
+<programme start="20241002014000 +0000" stop="20241002015000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S7/E14 - Benson&apos;s Pig&apos;. Mordecai and Rigby have to take Benson&apos;s new pet pig back to his apartment.</desc>
+</programme>
+<programme start="20241002015000 +0000" stop="20241002020000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S7/E15 - Hello China&apos;. In order to get high school credits</desc>
+</programme>
+<programme start="20241002020000 +0000" stop="20241002021500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S7/E16 - The Eileen Plan&apos;. Rigby doesn&apos;t think that he&apos;s smart enough for Eileen and devides to go back and finally get his high school diploma.</desc>
+</programme>
+<programme start="20241002021500 +0000" stop="20241002022500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S1/E20 - A Town Video: Welcome To Jellystone&apos;. Huckleberry Hound hires Yogi to direct an exciting video about Jellystone</desc>
+</programme>
+<programme start="20241002022500 +0000" stop="20241002023500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S2/E1 - Lady Danjjer: Is It Wrong To Long For Kabong?&apos;. Jabberjaw realizes that she&apos;ll need to become a supervillain if she wants to get El Kabong&apos;s attention.</desc>
+</programme>
+<programme start="20241002023500 +0000" stop="20241002024500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S2/E2 - Baby Shenanigans&apos;. Augie</desc>
+</programme>
+<programme start="20241002024500 +0000" stop="20241002030000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S2/E3 - Bleep&apos;. When an alien crashes into her lab</desc>
+</programme>
+<programme start="20241002030000 +0000" stop="20241002031000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Bionic Max</title>
+<desc lang="en">&apos;S1/E7 - It Takes Two Thieves&apos;. Max and JC decide to turn themselves into thieves in order to give Pouic-Pouic something to do.</desc>
+</programme>
+<programme start="20241002031000 +0000" stop="20241002032000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Bionic Max</title>
+<desc lang="en">&apos;S1/E8 - Woodchuck Chipper&apos;. When JC refuses to go to the dentist to treat his rotten teeth</desc>
+</programme>
+<programme start="20241002032000 +0000" stop="20241002033000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S2/E35 - Dreamtime&apos;. After a series of reoccurring nightmares affect his sleep</desc>
+</programme>
+<programme start="20241002033000 +0000" stop="20241002034000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S1 - Innervasion Part 1: Message In A Boxcar&apos;. As Team Tennyson prepares their boxcar for an upcoming race</desc>
+</programme>
+<programme start="20241002034000 +0000" stop="20241002035000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E15 - Starfire the Terrible&apos;. When Robin needs an archenemy Starfire generously offers to fill the role and she exceeds expectations.</desc>
+</programme>
+<programme start="20241002035000 +0000" stop="20241002040000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E15 - Second Christmas&apos;. The Titans trick Starfire into believing in second Christmas with second Santa.</desc>
+</programme>
+<programme start="20241002040000 +0000" stop="20241002041000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E11 - Cy &amp; Beasty&apos;. Cyborg and Beast Boy can&apos;t agree on the better character</desc>
+</programme>
+<programme start="20241002041000 +0000" stop="20241002042000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E23 - DC&apos;. It&apos;s Wonder Woman&apos;s 80th birthday</desc>
+</programme>
+<programme start="20241002042000 +0000" stop="20241002043500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Hero Inside</title>
+<desc lang="en">&apos;S1/E1 - Cry for Justice&apos;. When Mike buys a strange comic book titled &apos;Crying Man</desc>
+</programme>
+<programme start="20241002043500 +0000" stop="20241002045500 +0000" channel="cartoonnetwork.za">
+<title lang="en">LEGO DREAMZzz</title>
+<desc lang="en">&apos;S2/E2 - Memory Chasers&apos;. Reeling from the loss of their memories</desc>
+</programme>
+<programme start="20241002045500 +0000" stop="20241002050000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E110 - A Recipe for Success&apos;. Magoo mistakes the FizzLab for a restaurant kitchen.</desc>
+</programme>
+<programme start="20241002050000 +0000" stop="20241002051000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E111 - Honey Bear&apos;. Magoo mistakes Weasel for a wounded bear in need of help.</desc>
+</programme>
+<programme start="20241002051000 +0000" stop="20241002052000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E112 - Halloween Hold-up&apos;. Magoo robs a bank</desc>
+</programme>
+<programme start="20241002052000 +0000" stop="20241002054500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Pokémon Horizons: The Series</title>
+<desc lang="en">&apos;S1/E17 - Special Training Time!&apos;. Fuecoco and Wattrel aren&apos;t getting along</desc>
+</programme>
+<programme start="20241002054500 +0000" stop="20241002055500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E4 - P.P.&apos;. While stopping a museum theft</desc>
+</programme>
+<programme start="20241002055500 +0000" stop="20241002060500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E5 - A Little Help Please&apos;. When they receive a distress call from the TTG animators and artists</desc>
+</programme>
+<programme start="20241002060500 +0000" stop="20241002061500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E6 - Marv Wolfman &amp; George Perez&apos;. Marv Wolfman and George Pérez must pitch an idea for the new Teen Titans in 24 hours</desc>
+</programme>
+<programme start="20241002061500 +0000" stop="20241002062500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E12 - T is for Titans&apos;. The Titans are shocked to learn that the T Tower had previous owners.</desc>
+</programme>
+<programme start="20241002062500 +0000" stop="20241002063500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E51 - She Wore Red Velvet&apos;. Booster and the JLA come under attack by a villainess.</desc>
+</programme>
+<programme start="20241002063500 +0000" stop="20241002065000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E47 - Captain Bamboozle&apos;. Mr. Mxyzptlk decides to create some mischief by endowing Shazam&apos;s well-meaning Uncle Dudley with superpowers bigger than anyone in the league.</desc>
+</programme>
+<programme start="20241002065000 +0000" stop="20241002071000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Hero Inside</title>
+<desc lang="en">&apos;S1/E3 - Great GRAVITY&apos;. Nick is excited at the prospect of becoming famous by superhero videos</desc>
+</programme>
+<programme start="20241002071000 +0000" stop="20241002072000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S1 - Ben Again &amp; Again&apos;. Billy Billions tries to remove Ben from the Omnitrix.</desc>
+</programme>
+<programme start="20241002072000 +0000" stop="20241002073000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S2/E20 - All Koiled Up&apos;. When Ben grows impatient with the snail-like pace of gardening</desc>
+</programme>
+<programme start="20241002073000 +0000" stop="20241002075000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Power Rangers Super Ninja Steel</title>
+<desc lang="en">&apos;S1/E12 - Fan Frenzy&apos;. Levi becomes overwhelmed by an overzealous fan.</desc>
+</programme>
+<programme start="20241002075000 +0000" stop="20241002081000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Power Rangers Super Ninja Steel</title>
+<desc lang="en">&apos;S1/E13 - Prepare to Fail&apos;. Sarah gets too cocky and almost fails in more ways than one.</desc>
+</programme>
+<programme start="20241002081000 +0000" stop="20241002082000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E17 - Let&apos;s Get Serious&apos;. After Young Justice easily takes out the HIVE while the other Titans make silly jokes Robin decides the team needs to get serious.</desc>
+</programme>
+<programme start="20241002082000 +0000" stop="20241002083500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E17 - Tamaranian Vacation&apos;. The Titans visit Starfire&apos;s homeworld Tamaran.</desc>
+</programme>
+<programme start="20241002083500 +0000" stop="20241002084500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E18 - Rocks and Water&apos;. Raven and Beast Boy are shocked to discover that their exes Terra and Aqualad are now dating each other.</desc>
+</programme>
+<programme start="20241002084500 +0000" stop="20241002090000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E18 - Multiple Trick Pony&apos;. Robin insists he&apos;s a multiple trick pony.</desc>
+</programme>
+<programme start="20241002090000 +0000" stop="20241002092000 +0000" channel="cartoonnetwork.za">
+<title lang="en">LEGO DREAMZzz</title>
+<desc lang="en">&apos;S1/E15&apos;. Determined to give the Insomniac&apos;s a night of good dreams</desc>
+</programme>
+<programme start="20241002092000 +0000" stop="20241002093000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1 - Burger vs Burrito&apos;. Cyborg and Beast Boy face off about which is better burgers or burritos.</desc>
+</programme>
+<programme start="20241002093000 +0000" stop="20241002094000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E12 - Matched&apos;. When a computer dating program matches Beast Boy to Raven he tries wooing her to disastrous effect.</desc>
+</programme>
+<programme start="20241002094000 +0000" stop="20241002095000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E13 - Colors of Raven&apos;. A magical prism causes Raven to fragment into five distinct personalities which wreak havoc around town until the other Titans can figure out how to rejoin her.</desc>
+</programme>
+<programme start="20241002095000 +0000" stop="20241002100500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S1/E13 - The Left Leg&apos;. When the gang bands together to form a giant robot Robin is relegated to the left leg - but he makes the left leg count!</desc>
+</programme>
+<programme start="20241002100500 +0000" stop="20241002101000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E17 - House of Horrors&apos;. Magoo takes Marnie to a factory</desc>
+</programme>
+<programme start="20241002101000 +0000" stop="20241002101500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E10 - Making a Racket&apos;. Magoo mistakes Fizz&apos;s invention for a bunch of leeks.</desc>
+</programme>
+<programme start="20241002101500 +0000" stop="20241002102500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E4 - All About Fizz&apos;. Magoo mistakes Fizz&apos;s diary for a lost manuscript.</desc>
+</programme>
+<programme start="20241002102500 +0000" stop="20241002104000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Amazing World Of Gumball</title>
+<desc lang="en">&apos;S1/E3 - The Responsible&apos;. Gumball and Darwin babysit Anais &apos;responsibly&apos; whilst &apos;irresponsibly&apos; flooding the house.</desc>
+</programme>
+<programme start="20241002104000 +0000" stop="20241002105000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1 - Clawdad&apos;. While visiting the lake</desc>
+</programme>
+<programme start="20241002105000 +0000" stop="20241002110000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1 - You&apos;re a Good Man</desc>
+</programme>
+<programme start="20241002110000 +0000" stop="20241002111000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S1 - The Feels&apos;. When the Weatherheads set their sights on Winter Wonderland as their next target</desc>
+</programme>
+<programme start="20241002111000 +0000" stop="20241002112500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ben 10</title>
+<desc lang="en">&apos;S1 - Chicken Nuggets of Wisdom&apos;. When Ben and Max get into an argument</desc>
+</programme>
+<programme start="20241002112500 +0000" stop="20241002114500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Ninjago: Dragons Rising</title>
+<desc lang="en">&apos;S2/E4 - Force From the East&apos;. The Ninja&apos;s search to defeat Shatterspin leads them to new masters while Cole returns home to find the Finders under attack.</desc>
+</programme>
+<programme start="20241002114500 +0000" stop="20241002121000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Dragon Ball Super</title>
+<desc lang="en">&apos;S1 - A Challenge from Champa! This Time It&apos;s a Baseball Game!!&apos;. Champa really wants delicious Earth food</desc>
+</programme>
+<programme start="20241002121000 +0000" stop="20241002123000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jade Armor</title>
+<desc lang="en">&apos;S1/E18 - The Pomegranate&apos;. A Shard transports L.J. to an alternate universe! In this Ban Tang</desc>
+</programme>
+<programme start="20241002123000 +0000" stop="20241002124000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E44 - Don&apos;t Press Play&apos;. The Titans must help De La Soul save their music after it&apos;s stolen by an alien.</desc>
+</programme>
+<programme start="20241002124000 +0000" stop="20241002125500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E35 - Huggbees&apos;. The Brain teams up with The Lobe</desc>
+</programme>
+<programme start="20241002125500 +0000" stop="20241002130500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E1 - Justice League&apos;s Next Top Talent Idol Star: Dance Edition Part 1&apos;. It&apos;s time for another Justice League talent competition and Vibe is joining the judges&apos; panel to critique the moves of the DC universe dance crews.</desc>
+</programme>
+<programme start="20241002130500 +0000" stop="20241002131500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E2 - Justice League&apos;s Next Top Talent Idol Star: Dance Edition Part 2&apos;. Robin is left without a dance crew so Vibe gives him lessons on how to be a world class breakdancer and team player.</desc>
+</programme>
+<programme start="20241002131500 +0000" stop="20241002133000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E48 - Keeping Up with the Kryptonians&apos;. Supergirl and Superman go to a parallel world.</desc>
+</programme>
+<programme start="20241002133000 +0000" stop="20241002134000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S8/E6 - TV Knight 8&apos;. Commissioner Gordon has to work</desc>
+</programme>
+<programme start="20241002134000 +0000" stop="20241002135000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S8/E7 - A Stickier Situation&apos;. When Sticky Joe tries to clip his pet rat&apos;s nails</desc>
+</programme>
+<programme start="20241002135000 +0000" stop="20241002140000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S8/E4 - Teen Titans Action Part 1&apos;. The Titans learn that toys from comedy shows don&apos;t sell</desc>
+</programme>
+<programme start="20241002140000 +0000" stop="20241002141000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S8/E5 - Teen Titans Action Part 2&apos;. Having grown tired of their new action lifestyle</desc>
+</programme>
+<programme start="20241002141000 +0000" stop="20241002143500 +0000" channel="cartoonnetwork.za">
+<title lang="en">LEGO DREAMZzz</title>
+<desc lang="en">&apos;S2/E3 - Sound of Sirens&apos;. The Murky Realm&apos;s disappearance triggers a daytime incursion at school</desc>
+</programme>
+<programme start="20241002143500 +0000" stop="20241002144000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E18 - Paloneon the 1st&apos;. Magoo mistakes Fizz for Panoleon the First</desc>
+</programme>
+<programme start="20241002144000 +0000" stop="20241002145000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E19 - Amazon Return&apos;. Magoo mistakes Fizz&apos;s plush toy for a Nanoshrimp idol.</desc>
+</programme>
+<programme start="20241002145000 +0000" stop="20241002145500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S2/E20 - Abominable Showman&apos;. Believing he&apos;s in the mountains</desc>
+</programme>
+<programme start="20241002145500 +0000" stop="20241002150500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E7 - Brain Flip&apos;. It&apos;s time for Beast Boy to leave</desc>
+</programme>
+<programme start="20241002150500 +0000" stop="20241002151500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E12 - Walk Away&apos;. After the T-Car is destroyed in a fight</desc>
+</programme>
+<programme start="20241002151500 +0000" stop="20241002153000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S6/E13 - Record Book&apos;. Starfire wants a world record</desc>
+</programme>
+<programme start="20241002153000 +0000" stop="20241002155000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Pokémon Horizons: The Series</title>
+<desc lang="en">&apos;S1/E18 - Flying Pikachu</desc>
+</programme>
+<programme start="20241002155000 +0000" stop="20241002160000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E12 - Repulse!&apos;. Luthor infects Superman with a magnetic charge.</desc>
+</programme>
+<programme start="20241002160000 +0000" stop="20241002161500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Justice League Action</title>
+<desc lang="en">&apos;S1/E13 - Trick or Threat&apos;. Four kids in Justice League costumes are trick or treating.</desc>
+</programme>
+<programme start="20241002161500 +0000" stop="20241002162500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S1/E15 - Catanooga Cheese Explosion&apos;. Yogi pretends to be Shag Rugg&apos;s father so he can get into a family friendly pizzeria.</desc>
+</programme>
+<programme start="20241002162500 +0000" stop="20241002164000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jellystone</title>
+<desc lang="en">&apos;S1/E16 - Squish Or Miss&apos;. Augie and Shag help Yakky get over her crippling fear of nearly everything.</desc>
+</programme>
+<programme start="20241002164000 +0000" stop="20241002165000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S3/E9 - The Fourth Wall&apos;. Control Freak informs the Titans that they are on a TV show he created and demands they earn him an award.</desc>
+</programme>
+<programme start="20241002165000 +0000" stop="20241002170000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S3/E10 - 40%</desc>
+</programme>
+<programme start="20241002170000 +0000" stop="20241002171000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S3/E11 - Grube&apos;s Fairytales&apos;. Robin tries to teach the Titans valuable life lessons by reading them fairy tales</desc>
+</programme>
+<programme start="20241002171000 +0000" stop="20241002172000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S3/E12 - A Farce&apos;. Brother Blood takes the Titans to trial for their recent destruction of Jump City.</desc>
+</programme>
+<programme start="20241002172000 +0000" stop="20241002174000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Jade Armor</title>
+<desc lang="en">&apos;S1/E24 - Transparency&apos;. Ban Tang isn&apos;t a ghost town</desc>
+</programme>
+<programme start="20241002174000 +0000" stop="20241002180000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Power Rangers Super Ninja Steel</title>
+<desc lang="en">&apos;S1/E5 - Game Plan&apos;. The students of Summer Cove High become addicted to a new video game.</desc>
+</programme>
+<programme start="20241002180000 +0000" stop="20241002182500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Power Rangers Super Ninja Steel</title>
+<desc lang="en">&apos;S1/E6 - Attack of the Galactic Ninjas&apos;. The Galactic Ninjas arrive on Earth to destroy the Rangers once and for all.</desc>
+</programme>
+<programme start="20241002182500 +0000" stop="20241002183500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E17 - Let&apos;s Get Serious&apos;. After Young Justice easily takes out the HIVE while the other Titans make silly jokes Robin decides the team needs to get serious.</desc>
+</programme>
+<programme start="20241002183500 +0000" stop="20241002184500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S2/E17 - Tamaranian Vacation&apos;. The Titans visit Starfire&apos;s homeworld Tamaran.</desc>
+</programme>
+<programme start="20241002184500 +0000" stop="20241002185500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E67 - The Gluttons for Punishment&apos;. Magoo mistakes Fizz and Weasel for his old bandmates.</desc>
+</programme>
+<programme start="20241002185500 +0000" stop="20241002190500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E68 - Brain Washed&apos;. Magoo gets shrunken and teleported into Fizz&apos;s brain.</desc>
+</programme>
+<programme start="20241002190500 +0000" stop="20241002191000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Mr Magoo</title>
+<desc lang="en">&apos;S1/E69 - Mag007&apos;. Magoo mistakes Weasel for a deadly secret agent.</desc>
+</programme>
+<programme start="20241002191000 +0000" stop="20241002192000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1/E6 - Man Up&apos;. When Man-Boy returns to exact his revenge</desc>
+</programme>
+<programme start="20241002192000 +0000" stop="20241002193000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1/E4 - Painbow&apos;. A mysterious rainbow causes everyone to become unhappy.</desc>
+</programme>
+<programme start="20241002193000 +0000" stop="20241002194000 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1/E31 - Secret Swapper of Doom&apos;. The girls get a Paper Fortune Teller that can predict the future if they tell it a secret. But soon it predicts the Powerpuff Girls will be destroyed!</desc>
+</programme>
+<programme start="20241002194000 +0000" stop="20241002195500 +0000" channel="cartoonnetwork.za">
+<title lang="en">The Powerpuff Girls</title>
+<desc lang="en">&apos;S1/E8 - Little Octi Lost&apos;. Buttercup steals Octi to teach Bubbles a lesson</desc>
+</programme>
+<programme start="20241002195500 +0000" stop="20241002200500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Apple &amp; Onion</title>
+<desc lang="en">&apos;S1/E33 - The Music Store Thief&apos;. Apple and Onion have to defend the music store from instrument theft to get a key to the store.</desc>
+</programme>
+<programme start="20241002200500 +0000" stop="20241002201500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Apple &amp; Onion</title>
+<desc lang="en">&apos;S1/E34 - The Fly&apos;. Apple and Onion must rid their apartment of a fly or face eviction.</desc>
+</programme>
+<programme start="20241002201500 +0000" stop="20241002202500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Apple &amp; Onion</title>
+<desc lang="en">&apos;S1/E35 - Dragonhead&apos;. Apple and Onion must run a secret parking lot on their roof terrace so they can have a shower.</desc>
+</programme>
+<programme start="20241002202500 +0000" stop="20241002204000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Apple &amp; Onion</title>
+<desc lang="en">&apos;S1/E36 - Pulling Your Weight&apos;. Apple and Onion join a gym to gain the strength of seven people.</desc>
+</programme>
+<programme start="20241002204000 +0000" stop="20241002205000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S7/E3 - Cherry Cream Soda&apos;. With the arrival of an impossible visitor</desc>
+</programme>
+<programme start="20241002205000 +0000" stop="20241002210000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S7/E5 - Football&apos;. Football and BMO strike a bargain that may prove too difficult for one of them to keep.</desc>
+</programme>
+<programme start="20241002210000 +0000" stop="20241002211000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S7/E2 - Varmints&apos;. Bubblegum teams up with Marceline to face a threat to her homestead&apos;s citizens.</desc>
+</programme>
+<programme start="20241002211000 +0000" stop="20241002212000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Adventure Time</title>
+<desc lang="en">&apos;S7/E1 - Bonnie &amp; Neddy&apos;. Finn and Jake</desc>
+</programme>
+<programme start="20241002212000 +0000" stop="20241002213000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S5/E1 - Laundry Woes&apos;. Mordecai and Rigby go on a road trip to return Margaret&apos;s sweater.</desc>
+</programme>
+<programme start="20241002213000 +0000" stop="20241002214000 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S5/E4 - New Year&apos;s Kiss&apos;. Rigby has to stop Mordecai from kissing a girl on New Year&apos;s Eve.</desc>
+</programme>
+<programme start="20241002214000 +0000" stop="20241002215500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Regular Show</title>
+<desc lang="en">&apos;S5/E5 - Wall Buddy&apos;. Mordecai and Rigby have to clean up their room.</desc>
+</programme>
+<programme start="20241002215500 +0000" stop="20241002220500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E30 - Control Freak&apos;. When the Titans run amok in the Tower&apos;s evidence room</desc>
+</programme>
+<programme start="20241002220500 +0000" stop="20241002221500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E32 - The Drip&apos;. Robin finally experiences drip</desc>
+</programme>
+<programme start="20241002221500 +0000" stop="20241002222500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E33 - Standards &amp; Practices&apos;. The Titans&apos; negative behavior is giving superheroes a bad name</desc>
+</programme>
+<programme start="20241002222500 +0000" stop="20241002223500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Teen Titans Go!</title>
+<desc lang="en">&apos;S7/E34 - Belly Math&apos;. In order to defeat The Calculator</desc>
+</programme>
+<programme start="20241002223500 +0000" stop="20241002224500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2 - Sugar Smugglers&apos;. Craig</desc>
+</programme>
+<programme start="20241002224500 +0000" stop="20241002225500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E21 - Sleepover At JP&apos;s&apos;. JP invites his friends over for a sleepover</desc>
+</programme>
+<programme start="20241002225500 +0000" stop="20241002230500 +0000" channel="cartoonnetwork.za">
+<title lang="en">Craig Of The Creek</title>
+<desc lang="en">&apos;S2/E16 - The Evolution Of Craig&apos;. Craig rescues a tadpole and decides to raise him into a level 100 frog!</desc>
+</programme>
+<channel id="supersportfootballplus.za">
+<display-name lang="en">FOOTBALL PLUS HD TW</display-name>
+<icon src="https://lo1.in/uk/supsp.png" />
+</channel>
+<programme start="20240930230000 +0000" stop="20241001010000 +0000" channel="supersportfootballplus.za">
+<title lang="en">Serie A 24/25: Como v Verona</title>
+<desc lang="en">&apos;Italian Serie A - Matchday 6: Como vs Verona&apos;. From Giuseppe Sinigaglia - Como</desc>
+</programme>
+<programme start="20241001010000 +0000" stop="20241001030000 +0000" channel="supersportfootballplus.za">
+<title lang="en">Serie A 24/25: Empoli v Fiorentina</title>
+<desc lang="en">&apos;Italian Serie A - Matchday 6: Empoli vs Fiorentina&apos;. From Stadio Carlo Castellani - Empoli</desc>
+</programme>
+<programme start="20241001030000 +0000" stop="20241001033000 +0000" channel="supersportfootballplus.za">
+<title lang="en">Serie A HL 24/25 Roma v Venezia</title>
+<desc lang="en">&apos;Italian Serie A Highlights - Matchday 6: Roma vs Venezia&apos;. From Stadio Olimpico - Rome</desc>
+</programme>
+<programme start="20241001033000 +0000" stop="20241001040000 +0000" channel="supersportfootballplus.za">
+<title lang="en">Serie A HL 24/25 Napoli v Monza</title>
+<desc lang="en">&apos;Italian Serie A Highlights - Matchday 6: Napoli vs Monza&apos;. From Stadio Diego Armando Maradona - Napoli</desc>
+</programme>
+<programme start="20241001040000 +0000" stop="20241001060000 +0000" channel="supersportfootballplus.za">
+<title lang="en">Serie A 24/25: Parma v Cagliari</title>
+<desc lang="en">&apos;Italian Serie A - Matchday 6: Parma vs Cagliari&apos;. From Ennio Tardini Stadium - Parma</desc>
+</programme>
+<programme start="20241001060000 +0000" stop="20241001080000 +0000" channel="supersportfootballplus.za">
+<title lang="en">Serie A 24/25: Roma v Venezia</title>
+<desc lang="en">&apos;Italian Serie A - Matchday 6: Roma vs Venezia&apos;. From Stadio Olimpico - Rome</desc>
+</programme>
+<programme start="20241001080000 +0000" stop="20241001100000 +0000" channel="supersportfootballplus.za">
+<title lang="en">LaLiga 24/25: Osasuna v Barcelona</title>
+<desc lang="en">&apos;LaLiga EA Sports - Matchday 8: Osasuna vs Barcelona&apos;. From El Sadar - Pamplona</desc>
+</programme>
+<programme start="20241001100000 +0000" stop="20241001120000 +0000" channel="supersportfootballplus.za">
+<title lang="en">LaLiga 24/25: A Madrid v R Madrid</title>
+<desc lang="en">&apos;LaLiga EA Sports - Matchday 8: Atletico Madrid vs Real Madrid&apos;. From Civitas Metropolitano - Madrid</desc>
+</programme>
+<programme start="20241001120000 +0000" stop="20241001123000 +0000" channel="supersportfootballplus.za">
+<title lang="en">PL HL 24/25: Newcastle v Man City</title>
+<desc lang="en">&apos;Premier League Highlights - Matchday 6: Newcastle United vs Manchester City&apos;. From St James&apos; Park - Newcastle</desc>
+</programme>
+<programme start="20241001123000 +0000" stop="20241001130000 +0000" channel="supersportfootballplus.za">
+<title lang="en">PL HL 24/25: Arsenal v Leicester</title>
+<desc lang="en">&apos;Premier League Highlights - Matchday 6: Arsenal vs Leicester City&apos;. From Emirates Stadium - London</desc>
+</programme>
+<programme start="20241001130000 +0000" stop="20241001150000 +0000" channel="supersportfootballplus.za">
+<title lang="en">PL 24/25: Man Utd v Tottenham</title>
+<desc lang="en">&apos;Premier League - Matchday 6: Manchester United vs Tottenham Hotspur&apos;. From Old Trafford - Manchester</desc>
+</programme>
+<programme start="20241001150000 +0000" stop="20241001153000 +0000" channel="supersportfootballplus.za">
+<title lang="en">PL HL 24/25: Wolves v Liverpool</title>
+<desc lang="en">&apos;Premier League Highlights - Matchday 6: Wolverhampton Wanderers vs Liverpool&apos;. From Molineux Stadium - Wolverhampton</desc>
+</programme>
+<programme start="20241001153000 +0000" stop="20241001160000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL Magazine</title>
+<desc lang="en">&apos;S25/E4 of 37&apos;. A weekly round-up of the results in the 23/24 Champions League including player profiles.</desc>
+</programme>
+<programme start="20241001160000 +0000" stop="20241001164000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL Build Up</title>
+<desc lang="en">&apos;UEFA Champions League Build Up - Matchday 2: Salzburg vs Brest&apos;. After beating Sturm Graz last time out</desc>
+</programme>
+<programme start="20241001164000 +0000" stop="20241001184500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Salzburg v Brest</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Salzburg vs Brest&apos;. LIVE from Stadion Salzburg - Salzburg</desc>
+</programme>
+<programme start="20241001184500 +0000" stop="20241001185500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL Build Up</title>
+<desc lang="en">&apos;UEFA Champions League Build Up - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. Two sides still waiting for that elusive Champions League title</desc>
+</programme>
+<programme start="20241001185500 +0000" stop="20241001210000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Arsenal v PSG</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. LIVE from Arsenal Stadium - London</desc>
+</programme>
+<programme start="20241001210000 +0000" stop="20241001220000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL Wrap</title>
+<desc lang="en">&apos;UEFA Champions League Wrap - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. LIVE From Arsenal Stadium - London</desc>
+</programme>
+<programme start="20241001220000 +0000" stop="20241002000000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Salzburg v Brest</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Salzburg vs Brest&apos;. From Stadion Salzburg - Salzburg</desc>
+</programme>
+<programme start="20241001220000 +0000" stop="20241002000000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Salzburg v Brest</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Salzburg vs Brest&apos;. From Stadion Salzburg - Salzburg</desc>
+</programme>
+<programme start="20241002000000 +0000" stop="20241002020000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Arsenal v PSG</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. From Arsenal Stadium - London</desc>
+</programme>
+<programme start="20241002020000 +0000" stop="20241002030000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL Wrap</title>
+<desc lang="en">&apos;UEFA Champions League Wrap - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. From Arsenal Stadium - London</desc>
+</programme>
+<programme start="20241002030000 +0000" stop="20241002040000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL Matchday HL 24/25</title>
+<desc lang="en">&apos;UEFA Champions League Matchday Highlights. UEFA Champions League Matchday Highlights - Matchday 2: Tuesday&apos;. Catch the latest Champions League highlights and top goals of the week.</desc>
+</programme>
+<programme start="20241002040000 +0000" stop="20241002040500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Arsenal v PSG</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. From Arsenal Stadium - London</desc>
+</programme>
+<programme start="20241002040500 +0000" stop="20241002041000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: S Bratislava v Man City</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Slovan Bratislava vs Manchester City&apos;. From Národný futbalový štadión - Bratislava</desc>
+</programme>
+<programme start="20241002041000 +0000" stop="20241002041500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Barcelona v Young Boys</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Barcelona vs Young Boys&apos;. From Lluís Companys Olympic Stadium - Barcelona</desc>
+</programme>
+<programme start="20241002041500 +0000" stop="20241002042000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Leverkusen v AC Milan</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Bayer Leverkusen vs AC Milan&apos;. From Bay Arena - Leverkusen</desc>
+</programme>
+<programme start="20241002042000 +0000" stop="20241002042500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Inter v Crvena Zvezda</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Inter Milan vs Crvena Zvezda&apos;. From Stadio San Siro - Milan</desc>
+</programme>
+<programme start="20241002042500 +0000" stop="20241002043000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Dortmund v Celtic</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Borussia Dortmund vs Celtic&apos;. From BVB Stadion - Dortmund</desc>
+</programme>
+<programme start="20241002043000 +0000" stop="20241002043500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: PSV v Sporting</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: PSV Eindhoven vs Sporting CP&apos;. From PSV Stadion - Eindhoven</desc>
+</programme>
+<programme start="20241002043500 +0000" stop="20241002044000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Salzburg v Brest</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Salzburg vs Brest&apos;. From Stadion Salzburg - Salzburg</desc>
+</programme>
+<programme start="20241002044000 +0000" stop="20241002044500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Stuttgart v S Praha</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: VfB Stuttgart vs Sparta Praha&apos;. From Stuttgart Arena - Stuttgart</desc>
+</programme>
+<programme start="20241002044500 +0000" stop="20241002045000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Arsenal v PSG</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. From Arsenal Stadium - London</desc>
+</programme>
+<programme start="20241002045000 +0000" stop="20241002045500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: S Bratislava v Man City</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Slovan Bratislava vs Manchester City&apos;. From Národný futbalový štadión - Bratislava</desc>
+</programme>
+<programme start="20241002045500 +0000" stop="20241002050000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Barcelona v Young Boys</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Barcelona vs Young Boys&apos;. From Lluís Companys Olympic Stadium - Barcelona</desc>
+</programme>
+<programme start="20241002050000 +0000" stop="20241002070000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Arsenal v PSG</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. From Arsenal Stadium - London</desc>
+</programme>
+<programme start="20241002070000 +0000" stop="20241002090000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: S Bratislava v Man City</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Slovan Bratislava vs Manchester City&apos;. From Národný futbalový štadión - Bratislava</desc>
+</programme>
+<programme start="20241002090000 +0000" stop="20241002110000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Barcelona v Young Boys</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Barcelona vs Young Boys&apos;. From Lluís Companys Olympic Stadium - Barcelona</desc>
+</programme>
+<programme start="20241002110000 +0000" stop="20241002130000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Inter v Crvena Zvezda</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Inter Milan vs Crvena Zvezda&apos;. From Stadio San Siro - Milan</desc>
+</programme>
+<programme start="20241002130000 +0000" stop="20241002150000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Dortmund v Celtic</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Borussia Dortmund vs Celtic&apos;. From BVB Stadion - Dortmund</desc>
+</programme>
+<programme start="20241002150000 +0000" stop="20241002150500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Arsenal v PSG</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. From Arsenal Stadium - London</desc>
+</programme>
+<programme start="20241002150500 +0000" stop="20241002151000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: S Bratislava v Man City</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Slovan Bratislava vs Manchester City&apos;. From Národný futbalový štadión - Bratislava</desc>
+</programme>
+<programme start="20241002151000 +0000" stop="20241002151500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Barcelona v Young Boys</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Barcelona vs Young Boys&apos;. From Lluís Companys Olympic Stadium - Barcelona</desc>
+</programme>
+<programme start="20241002151500 +0000" stop="20241002152000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Leverkusen v AC Milan</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Bayer Leverkusen vs AC Milan&apos;. From Bay Arena - Leverkusen</desc>
+</programme>
+<programme start="20241002152000 +0000" stop="20241002152500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Inter v Crvena Zvezda</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Inter Milan vs Crvena Zvezda&apos;. From Stadio San Siro - Milan</desc>
+</programme>
+<programme start="20241002152500 +0000" stop="20241002153000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Dortmund v Celtic</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Borussia Dortmund vs Celtic&apos;. From BVB Stadion - Dortmund</desc>
+</programme>
+<programme start="20241002153000 +0000" stop="20241002153500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: PSV v Sporting</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: PSV Eindhoven vs Sporting CP&apos;. From PSV Stadion - Eindhoven</desc>
+</programme>
+<programme start="20241002153500 +0000" stop="20241002154000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Salzburg v Brest</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Salzburg vs Brest&apos;. From Stadion Salzburg - Salzburg</desc>
+</programme>
+<programme start="20241002154000 +0000" stop="20241002154500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Stuttgart v S Praha</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: VfB Stuttgart vs Sparta Praha&apos;. From Stuttgart Arena - Stuttgart</desc>
+</programme>
+<programme start="20241002154500 +0000" stop="20241002155000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Arsenal v PSG</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Arsenal vs Paris Saint-Germain&apos;. From Arsenal Stadium - London</desc>
+</programme>
+<programme start="20241002155000 +0000" stop="20241002155500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: S Bratislava v Man City</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Slovan Bratislava vs Manchester City&apos;. From Národný futbalový štadión - Bratislava</desc>
+</programme>
+<programme start="20241002155500 +0000" stop="20241002160000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL HL 24/25: Barcelona v Young Boys</title>
+<desc lang="en">&apos;UEFA Champions League Blitz Highlights - Matchday 2: Barcelona vs Young Boys&apos;. From Lluís Companys Olympic Stadium - Barcelona</desc>
+</programme>
+<programme start="20241002160000 +0000" stop="20241002164000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL Build Up</title>
+<desc lang="en">&apos;UEFA Champions League Build Up - Matchday 2: Girona vs Feyenoord&apos;. Girona and their boss Miguel Ángel Sánchez Muñoz will be aiming to beat Brian Priske and his Feyenoord side as the pair meet at the Municipal de Montilivi.</desc>
+</programme>
+<programme start="20241002164000 +0000" stop="20241002184500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Girona v Feyenoord</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Girona vs Feyenoord&apos;. LIVE from Estadio Municipal de Montilivi - Girona</desc>
+</programme>
+<programme start="20241002184500 +0000" stop="20241002185500 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL Build Up</title>
+<desc lang="en">&apos;UEFA Champions League Build Up - Matchday 2: Liverpool vs Bologna&apos;. The Reds came from behind to beat AC Milan 3-1 in their first League Phase outing. Bologna</desc>
+</programme>
+<programme start="20241002185500 +0000" stop="20241002210000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Liverpool v Bologna</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Liverpool vs Bologna&apos;. LIVE from Anfield - Liverpool</desc>
+</programme>
+<programme start="20241002210000 +0000" stop="20241002220000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL Wrap</title>
+<desc lang="en">&apos;UEFA Champions League Wrap - Matchday 2: Liverpool vs Bologna&apos;. LIVE From Anfield - Liverpool</desc>
+</programme>
+<programme start="20241002220000 +0000" stop="20241003000000 +0000" channel="supersportfootballplus.za">
+<title lang="en">UCL 24/25: Girona v Feyenoord</title>
+<desc lang="en">&apos;UEFA Champions League - Matchday 2: Girona vs Feyenoord&apos;. From Estadio Municipal de Montilivi - Girona</desc>
+</programme>
+<channel id="tlcentertainment.za">
+<display-name lang="en">TLC HD</display-name>
+<icon src="https://lo1.in/af/tlcintmnt.png" />
+</channel>
+<programme start="20240930230000 +0000" stop="20240930234500 +0000" channel="tlcentertainment.za">
+<title lang="en">Outdaughtered</title>
+<desc lang="en">&apos;S7/E2 - How To Train Your Adam&apos;. Adam looks forward to his new photography gig. Plus</desc>
+</programme>
+<programme start="20240930234500 +0000" stop="20241001003000 +0000" channel="tlcentertainment.za">
+<title lang="en">The Flipping El Moussas</title>
+<desc lang="en">&apos;S1/E5 - Rocky Horror Reno&apos;. Tarek and Heather head to Tarek&apos;s hometown of Buena Park</desc>
+</programme>
+<programme start="20241001003000 +0000" stop="20241001011500 +0000" channel="tlcentertainment.za">
+<title lang="en">The Little Couple</title>
+<desc lang="en">&apos;S10/E10 - This Is How We Party&apos;. Bill and Jen are a typical couple - except they&apos;re both under four feet tall</desc>
+</programme>
+<programme start="20241001011500 +0000" stop="20241001020000 +0000" channel="tlcentertainment.za">
+<title lang="en">Doubling Down With The Derricos</title>
+<desc lang="en">&apos;S2/E3 - Oh Baby&apos;. Karen and Deon endure a range of emotions over the new baby on the way</desc>
+</programme>
+<programme start="20241001020000 +0000" stop="20241001024500 +0000" channel="tlcentertainment.za">
+<title lang="en">Surrounded By Daughters</title>
+<desc lang="en">&apos;S2/E13 - A Little Potty Never Killed No Body&apos;. With the possibility of another surgery looming for Hazel</desc>
+</programme>
+<programme start="20241001024500 +0000" stop="20241001033000 +0000" channel="tlcentertainment.za">
+<title lang="en">Say Yes To The Dress America</title>
+<desc lang="en">&apos;S1/E1 - America: Episode 1&apos;. Randy is in Georgia to surprise Katie with an invitation to Kleinfeld for her dress</desc>
+</programme>
+<programme start="20241001033000 +0000" stop="20241001040000 +0000" channel="tlcentertainment.za">
+<title lang="en">Kitchen Boss</title>
+<desc lang="en">&apos;S1/E27 - Pasta Classics&apos;. Buddy cooks some classics</desc>
+</programme>
+<programme start="20241001040000 +0000" stop="20241001044500 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day Fiancé: The Other Way</title>
+<desc lang="en">&apos;S1/E16 - Fool&apos;s Gold&apos;. Deavan is left questioning her relationship with Jihoon. Jenny and Sumit are at boiling point</desc>
+</programme>
+<programme start="20241001044500 +0000" stop="20241001053200 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day Fiancé: The Other Way</title>
+<desc lang="en">&apos;S1/E18 - Torn&apos;. Sumit reveals his truth</desc>
+</programme>
+<programme start="20241001053200 +0000" stop="20241001061900 +0000" channel="tlcentertainment.za">
+<title lang="en">The Family Chantel</title>
+<desc lang="en">&apos;S5/E1 - Two Households</desc>
+</programme>
+<programme start="20241001061900 +0000" stop="20241001064200 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E9 - Buddha</desc>
+</programme>
+<programme start="20241001064200 +0000" stop="20241001070600 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E10 - Fairy Tales</desc>
+</programme>
+<programme start="20241001070600 +0000" stop="20241001072900 +0000" channel="tlcentertainment.za">
+<title lang="en">Kitchen Boss</title>
+<desc lang="en">&apos;S1/E20 - Farmers&apos; Market Fun&apos;. Buddy checks out the farmers market to find the freshest vegetables for his squash casserole and classic Swiss chard. Will Grandma&apos;s aubergine also be a hit?</desc>
+</programme>
+<programme start="20241001072900 +0000" stop="20241001081600 +0000" channel="tlcentertainment.za">
+<title lang="en">Doubling Down With The Derricos</title>
+<desc lang="en">&apos;S1/E6 - For The Love Of Dawsyn&apos;. The stakes are higher than ever as Dawsyn heads into hospital for her final heart surgery. Plus</desc>
+</programme>
+<programme start="20241001081600 +0000" stop="20241001090300 +0000" channel="tlcentertainment.za">
+<title lang="en">Surrounded By Daughters</title>
+<desc lang="en">&apos;S2/E8 - Quint-Cation Chaos&apos;. The Busbys are getting ready for the quints&apos; first family vacation</desc>
+</programme>
+<programme start="20241001090300 +0000" stop="20241001095000 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day Fiancé: The Other Way</title>
+<desc lang="en">&apos;S1/E16 - Fool&apos;s Gold&apos;. Deavan is left questioning her relationship with Jihoon. Jenny and Sumit are at boiling point</desc>
+</programme>
+<programme start="20241001095000 +0000" stop="20241001103700 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day Fiancé: The Other Way</title>
+<desc lang="en">&apos;S1/E18 - Torn&apos;. Sumit reveals his truth</desc>
+</programme>
+<programme start="20241001103700 +0000" stop="20241001112400 +0000" channel="tlcentertainment.za">
+<title lang="en">Say Yes To The Dress</title>
+<desc lang="en">&apos;S20/E10 - I Just Need To Find A Husband&apos;. Personal trainer Jessica needs a gown that shows off her muscular back</desc>
+</programme>
+<programme start="20241001112400 +0000" stop="20241001121100 +0000" channel="tlcentertainment.za">
+<title lang="en">Outdaughtered</title>
+<desc lang="en">&apos;S7/E2 - How To Train Your Adam&apos;. Adam looks forward to his new photography gig. Plus</desc>
+</programme>
+<programme start="20241001121100 +0000" stop="20241001123500 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E9 - Buddha</desc>
+</programme>
+<programme start="20241001123500 +0000" stop="20241001125800 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E10 - Fairy Tales</desc>
+</programme>
+<programme start="20241001125800 +0000" stop="20241001132200 +0000" channel="tlcentertainment.za">
+<title lang="en">Sister Wives</title>
+<desc lang="en">&apos;S3/E5 - Four Wives</desc>
+</programme>
+<programme start="20241001132200 +0000" stop="20241001134500 +0000" channel="tlcentertainment.za">
+<title lang="en">Sister Wives</title>
+<desc lang="en">&apos;S3/E6 - Brown Boys Do Vegas&apos;. Kody ditches his four wives for his three brothers as they hit up the city of sin. They ride motorcycles</desc>
+</programme>
+<programme start="20241001134500 +0000" stop="20241001143200 +0000" channel="tlcentertainment.za">
+<title lang="en">Doubling Down With The Derricos</title>
+<desc lang="en">&apos;S2/E4 - California Bound&apos;. Karen anxiously prepares for Diez&apos;s appointment with specialists in LA to determine if he needs skull surgery. And</desc>
+</programme>
+<programme start="20241001143200 +0000" stop="20241001151900 +0000" channel="tlcentertainment.za">
+<title lang="en">Surrounded By Daughters</title>
+<desc lang="en">&apos;S2/E14 - Good Quints Gone Bad&apos;. The Busbys tackle discipline to get the terrible twos under control. Meanwhile</desc>
+</programme>
+<programme start="20241001151900 +0000" stop="20241001160600 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day: The Single Life</title>
+<desc lang="en">&apos;S1/E9 - Bombs Away&apos;. Molly shocks Kelly with a big question. Ed spills the tea about his night with Liz. Colt plans a big surprise. Fernanda drops a bomb on Robby.</desc>
+</programme>
+<programme start="20241001160600 +0000" stop="20241001165500 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day: The Single Life</title>
+<desc lang="en">&apos;S1/E10 - You Make Me Wanna Snoop&apos;. Ed&apos;s daughter Tiffany meets Liz. Colt and Vanessa&apos;s intimacy issues may pull them apart. Molly uncovers the truth about Kelly&apos;s past.</desc>
+</programme>
+<programme start="20241001165500 +0000" stop="20241001174500 +0000" channel="tlcentertainment.za">
+<title lang="en">Say Yes To The Dress America</title>
+<desc lang="en">&apos;S1/E2 - America: Episode 2&apos;. Randy is in West Virginia to surprise Erin with a VIP invitation to Kleinfeld. And</desc>
+</programme>
+<programme start="20241001174500 +0000" stop="20241001181000 +0000" channel="tlcentertainment.za">
+<title lang="en">Kitchen Boss</title>
+<desc lang="en">&apos;S1/E28 - Hot And Spicy&apos;. Buddy serves his favourite spicy foods including pepper steak Valastro</desc>
+</programme>
+<programme start="20241001181000 +0000" stop="20241001183500 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E24 - Classic Cars And Grace&apos;s Surprise&apos;. Buddy is tasked with a car cake for the Barrett Jackson Auction&apos;s co-founder. Will a surprise ice-cream cake win over Grace for her 50th birthday?</desc>
+</programme>
+<programme start="20241001183500 +0000" stop="20241001190000 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E25 - Home Runs and Rabbit Holes&apos;. Buddy is at a school in New York City for an Alice In Wonderland-themed cake. Plus</desc>
+</programme>
+<programme start="20241001190000 +0000" stop="20241001195000 +0000" channel="tlcentertainment.za">
+<title lang="en">My Big Fat Fabulous Life</title>
+<desc lang="en">&apos;S3/E16 - How Low Can Whit Go?&apos;. Whitney attends rival Jiya&apos;s dance class but when her skills get tested and she refuses to get low</desc>
+</programme>
+<programme start="20241001195000 +0000" stop="20241001204000 +0000" channel="tlcentertainment.za">
+<title lang="en">Big Crazy Family Adventure</title>
+<desc lang="en">&apos;S1/E6 - Leg 6: Sailing The Ganges</desc>
+</programme>
+<programme start="20241001204000 +0000" stop="20241001213000 +0000" channel="tlcentertainment.za">
+<title lang="en">The Blended Bunch</title>
+<desc lang="en">&apos;S1/E5 - Princess Spencer&apos;. Erica goes on a girls&apos; trip with her friend</desc>
+</programme>
+<programme start="20241001213000 +0000" stop="20241001221500 +0000" channel="tlcentertainment.za">
+<title lang="en">Dr. Pimple Popper</title>
+<desc lang="en">&apos;S3/E16 - Numbing Nevus&apos;. Monica returns in the hopes that Dr. Lee can remove more of her face growths. Ken has several large cysts on his head that he has tried to remove on his own.</desc>
+</programme>
+<programme start="20241001221500 +0000" stop="20241001230000 +0000" channel="tlcentertainment.za">
+<title lang="en">The Bad Skin Clinic</title>
+<desc lang="en">&apos;S3/E11 - Michelle</desc>
+</programme>
+<programme start="20241001230000 +0000" stop="20241001234500 +0000" channel="tlcentertainment.za">
+<title lang="en">My Big Fat Fabulous Life</title>
+<desc lang="en">&apos;S3/E16 - How Low Can Whit Go?&apos;. Whitney attends rival Jiya&apos;s dance class but when her skills get tested and she refuses to get low</desc>
+</programme>
+<programme start="20241001234500 +0000" stop="20241002003000 +0000" channel="tlcentertainment.za">
+<title lang="en">Big Crazy Family Adventure</title>
+<desc lang="en">&apos;S1/E6 - Leg 6: Sailing The Ganges</desc>
+</programme>
+<programme start="20241002003000 +0000" stop="20241002011500 +0000" channel="tlcentertainment.za">
+<title lang="en">The Blended Bunch</title>
+<desc lang="en">&apos;S1/E5 - Princess Spencer&apos;. Erica goes on a girls&apos; trip with her friend</desc>
+</programme>
+<programme start="20241002011500 +0000" stop="20241002020000 +0000" channel="tlcentertainment.za">
+<title lang="en">Doubling Down With The Derricos</title>
+<desc lang="en">&apos;S2/E4 - California Bound&apos;. Karen anxiously prepares for Diez&apos;s appointment with specialists in LA to determine if he needs skull surgery. And</desc>
+</programme>
+<programme start="20241002020000 +0000" stop="20241002024500 +0000" channel="tlcentertainment.za">
+<title lang="en">Surrounded By Daughters</title>
+<desc lang="en">&apos;S2/E14 - Good Quints Gone Bad&apos;. The Busbys tackle discipline to get the terrible twos under control. Meanwhile</desc>
+</programme>
+<programme start="20241002024500 +0000" stop="20241002033000 +0000" channel="tlcentertainment.za">
+<title lang="en">Say Yes To The Dress America</title>
+<desc lang="en">&apos;S1/E2 - America: Episode 2&apos;. Randy is in West Virginia to surprise Erin with a VIP invitation to Kleinfeld. And</desc>
+</programme>
+<programme start="20241002033000 +0000" stop="20241002040000 +0000" channel="tlcentertainment.za">
+<title lang="en">Kitchen Boss</title>
+<desc lang="en">&apos;S1/E28 - Hot And Spicy&apos;. Buddy serves his favourite spicy foods including pepper steak Valastro</desc>
+</programme>
+<programme start="20241002040000 +0000" stop="20241002044500 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day Fiancé: The Other Way</title>
+<desc lang="en">&apos;S1/E19 - Falling Apart&apos;. Jenny and Sumit face each for the first time since she found out he&apos;s married. The issues between Laura</desc>
+</programme>
+<programme start="20241002044500 +0000" stop="20241002053200 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day Fiancé: The Other Way</title>
+<desc lang="en">&apos;S1/E20 - Never Let Me Go&apos;. Distraught Jenny no longer feels at home in India. Corey has a huge question to ask Evelin and Deavan and Jihoon have a traditional Korean wedding ceremony.</desc>
+</programme>
+<programme start="20241002053200 +0000" stop="20241002061900 +0000" channel="tlcentertainment.za">
+<title lang="en">Big Crazy Family Adventure</title>
+<desc lang="en">&apos;S1/E6 - Leg 6: Sailing The Ganges</desc>
+</programme>
+<programme start="20241002061900 +0000" stop="20241002064200 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E11 - Creeps</desc>
+</programme>
+<programme start="20241002064200 +0000" stop="20241002070600 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E12 - Lumber Jacks And Giving Back&apos;. Buddy builds a tree-inspired wedding cake for two lumberjacks</desc>
+</programme>
+<programme start="20241002070600 +0000" stop="20241002072900 +0000" channel="tlcentertainment.za">
+<title lang="en">Kitchen Boss</title>
+<desc lang="en">&apos;S1/E21 - Simple Italian&apos;. Buddy reveals the recipes for some simple family favourites including chicken piccata</desc>
+</programme>
+<programme start="20241002072900 +0000" stop="20241002081600 +0000" channel="tlcentertainment.za">
+<title lang="en">Doubling Down With The Derricos</title>
+<desc lang="en">&apos;S1/E7 - Quarantine With Eighteen&apos;. The Derricos endure the COVID-19 pandemic with two high-risk family members in the house. Things take a dark turn when Dawsyn is rushed to the ER.</desc>
+</programme>
+<programme start="20241002081600 +0000" stop="20241002090300 +0000" channel="tlcentertainment.za">
+<title lang="en">Surrounded By Daughters</title>
+<desc lang="en">&apos;S2/E9 - The Quints&apos; First Year&apos;. It&apos;s the Quints&apos; 1st birthday! The Busbys celebrate this momentous occasion and reflect back on the first year of raising quintuplet girls.</desc>
+</programme>
+<programme start="20241002090300 +0000" stop="20241002095000 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day Fiancé: The Other Way</title>
+<desc lang="en">&apos;S1/E19 - Falling Apart&apos;. Jenny and Sumit face each for the first time since she found out he&apos;s married. The issues between Laura</desc>
+</programme>
+<programme start="20241002095000 +0000" stop="20241002103700 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day Fiancé: The Other Way</title>
+<desc lang="en">&apos;S1/E20 - Never Let Me Go&apos;. Distraught Jenny no longer feels at home in India. Corey has a huge question to ask Evelin and Deavan and Jihoon have a traditional Korean wedding ceremony.</desc>
+</programme>
+<programme start="20241002103700 +0000" stop="20241002112400 +0000" channel="tlcentertainment.za">
+<title lang="en">Say Yes To The Dress</title>
+<desc lang="en">&apos;S21/E1 - Nobody Suspects A Thing&apos;. Lori has kept a secret from her entourage and now it&apos;s time for the big reveal! Merchandise Director Dorothy tries on a wedding dress for the first time.</desc>
+</programme>
+<programme start="20241002112400 +0000" stop="20241002121100 +0000" channel="tlcentertainment.za">
+<title lang="en">My Big Fat Fabulous Life</title>
+<desc lang="en">&apos;S3/E16 - How Low Can Whit Go?&apos;. Whitney attends rival Jiya&apos;s dance class but when her skills get tested and she refuses to get low</desc>
+</programme>
+<programme start="20241002121100 +0000" stop="20241002123500 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E11 - Creeps</desc>
+</programme>
+<programme start="20241002123500 +0000" stop="20241002125800 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E12 - Lumber Jacks And Giving Back&apos;. Buddy builds a tree-inspired wedding cake for two lumberjacks</desc>
+</programme>
+<programme start="20241002125800 +0000" stop="20241002132200 +0000" channel="tlcentertainment.za">
+<title lang="en">Sister Wives</title>
+<desc lang="en">&apos;S3/E7 - No Place Like Home&apos;. Logan</desc>
+</programme>
+<programme start="20241002132200 +0000" stop="20241002134500 +0000" channel="tlcentertainment.za">
+<title lang="en">Sister Wives</title>
+<desc lang="en">&apos;S3/E8 - Meri&apos;s Baby Decision&apos;. Kody makes good on his promise to Meri</desc>
+</programme>
+<programme start="20241002134500 +0000" stop="20241002143200 +0000" channel="tlcentertainment.za">
+<title lang="en">Doubling Down With The Derricos</title>
+<desc lang="en">&apos;S2/E5 - Unexpected Ultimatum&apos;. The Derricos celebrate Darian&apos;s 15th birthday with a big surprise. Meanwhile</desc>
+</programme>
+<programme start="20241002143200 +0000" stop="20241002151900 +0000" channel="tlcentertainment.za">
+<title lang="en">Surrounded By Daughters</title>
+<desc lang="en">&apos;S2/E15 - Extreme Quint Makeover&apos;. While Adam struggles with his emotional issues</desc>
+</programme>
+<programme start="20241002151900 +0000" stop="20241002160600 +0000" channel="tlcentertainment.za">
+<title lang="en">90 Day: The Single Life</title>
+<desc lang="en">&apos;S1/E12 - Is This The End?&apos;. Ed confronts Liz about not being a priority in her life. Brittany wants another chance with Terence. Danielle comes clean about her past to Robert.</desc>
+</programme>
+<programme start="20241002160600 +0000" stop="20241002165500 +0000" channel="tlcentertainment.za">
+<title lang="en">Say Yes To The Dress</title>
+<desc lang="en">&apos;S15/E1 - 10 Years Later And Busier Than Ever!&apos;. Rock star Elle King seeks a &apos;rocker-chic&apos; gown - can Kleinfeld&apos;s first-ever male consultant</desc>
+</programme>
+<programme start="20241002165500 +0000" stop="20241002174500 +0000" channel="tlcentertainment.za">
+<title lang="en">Say Yes To The Dress America</title>
+<desc lang="en">&apos;S1/E4 - America: Episode 4&apos;. Randy is in Texas to surprise bride Helicia with a VIP invitation to Kleinfeld for her dream dress and to represent her state in an epic wedding in NYC!</desc>
+</programme>
+<programme start="20241002174500 +0000" stop="20241002181000 +0000" channel="tlcentertainment.za">
+<title lang="en">Kitchen Boss</title>
+<desc lang="en">&apos;S1/E29 - Seaside Suppers&apos;. Buddy cooks a seafood special of stuffed shrimp</desc>
+</programme>
+<programme start="20241002181000 +0000" stop="20241002183500 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E26 - Helicopters And Hypnosis&apos;. A helicopter company commissions a cake that gets Buddy and the gang in a spin. Plus</desc>
+</programme>
+<programme start="20241002183500 +0000" stop="20241002190000 +0000" channel="tlcentertainment.za">
+<title lang="en">Cake Boss</title>
+<desc lang="en">&apos;S8/E28 - Taj Mahal And Prom Proposal&apos;. Buddy has a palatial task - to recreate the Taj Mahal as a huge cake for an Indian wedding! Plus</desc>
+</programme>
+<programme start="20241002190000 +0000" stop="20241002195000 +0000" channel="tlcentertainment.za">
+<title lang="en">Little People</title>
+<desc lang="en"> Big World</desc>
+</programme>
+<programme start="20241002195000 +0000" stop="20241002204000 +0000" channel="tlcentertainment.za">
+<title lang="en">The Family Chantel</title>
+<desc lang="en">&apos;S5/E2 - A Madness Most Discrete&apos;. Chantel holds a yard sale for all the items Pedro left behind. Meanwhile Pedro</desc>
+</programme>
+<programme start="20241002204000 +0000" stop="20241002213000 +0000" channel="tlcentertainment.za">
+<title lang="en">Curvy Brides&apos; Boutique</title>
+<desc lang="en">&apos;S3/E7 - The Katie L Episode&apos;. Katie has left booking a venue</desc>
+</programme>
+<programme start="20241002213000 +0000" stop="20241002221500 +0000" channel="tlcentertainment.za">
+<title lang="en">Dr. Pimple Popper</title>
+<desc lang="en">&apos;S3/E18 - Alligator Skin&apos;. Terry&apos;s nose growth has prevented him from meeting his grandkids. And</desc>
+</programme>
+<programme start="20241002221500 +0000" stop="20241002230000 +0000" channel="tlcentertainment.za">
+<title lang="en">The Bad Skin Clinic</title>
+<desc lang="en">&apos;S3/E12 - Rimi</desc>
+</programme>
 </tv>
